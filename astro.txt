@@ -1,0 +1,890 @@
+0
+Short Answer  What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?
+
+ANSWER: NORTH STAR  (ACCEPT:  POLARIS or ALPHA URSA MINORIS)
+
+1
+Short Answer  What is the primary elemental product of stellar hydrogen fusion?
+
+ANSWER: HELIUM
+
+2
+Multiple Choice  The temperature of a star can be estimated most directly from its: W)  distance  X)  elemental makeup Y)  color Z)  density
+
+ANSWER: Y)  COLOR
+
+3
+Short Answer  The local group is generally referred to as a collection of what celestial objects?
+
+ANSWER: GALAXIES
+
+4
+Multiple Choice  Most of the galaxies in the universe are classified as which of the following: W)  spiral X)  elliptical Y)  irregular Z)  dwarf
+
+ANSWER: Z)  DWARF
+
+5
+Multiple Choice  Which of the following is the primary characteristic of the Jovian planets: W)  high axial spin rates X)  low mean density Y)  retrograde orbits Z)  prominent layer of liquid-metallic hydrogen
+
+ANSWER: X)  LOW MEAN DENSITY
+
+6
+Short Answer  Which one of the Gas Giant planets emits the LEAST amount of energy?
+
+ANSWER: URANUS
+
+7
+Multiple Choice  At which of the following locations would Betelgeuse most likely be found by a stargazer at mid-northern latitudes during January at about midnight:  W)  at the beginning of the handle of the big dipper X)  at the zenith near the star Vega Y)  about 10º north of Orion’s belt in the southern sky Z)  in the northern sky just above the star Capella
+
+ANSWER: Y)  ABOUT 10º NORTH OF ORION’S BELT IN THE SOUTHERN SKY
+
+8
+Multiple Choice  Which of the following would typically appear to be the farthest away from the ecliptic: W)  the planet Mars X)  the constellation Leo  Y)  the Sun Z)  the constellation Cassiopeia
+
+ANSWER: Z)  THE CONSTELLATION CASSIOPEIA
+
+9
+Short Answer  Although you might expect this planet to be visible to the unaided eye because of its maximum apparent magnitude value of about +5.8, what planet is unlikely to be seen by most stargazers since it requires nearly ideal viewing conditions?
+
+ANSWER: URANUS
+
+10
+Multiple Choice  Which of the following best explains from where most of the dust that covers the surface of the Moon came: W)  weathering when the Moon was young and had an atmosphere X)  interstellar dust deposited over billions of years Y)  from rock pulverized from many impacts Z)  from its original makeup of a soft, silicate rock
+
+ANSWER: Y)  FROM ROCK PULVERIZED FROM MANY IMPACTS
+
+11
+Multiple Choice  If a star is seen just above the eastern horizon at sunset, where would it most likely be found just before the following sunrise: W)  just above the eastern horizon X)  half-way up in the eastern sky Y)  low in the western sky  Z)  directly overhead
+
+ANSWER: Y)  LOW IN THE WESTERN SKY
+
+12
+Short Answer  From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits?
+
+ANSWER: MARS
+
+13
+Multiple Choice  Which of the following statements is LEAST accurate: W)  solar eclipses are less common than lunar eclipses X)  stars that begin their lives with greater mass have longer life-spans Y)  stars in the same constellation are not necessarily at the same distance from Earth Z)  M-31 is a galaxy
+
+ANSWER: X)  STARS THAT BEGIN THEIR LIVES WITH GREATER MASS HAVE LONGER
+
+14
+Short Answer  In what constellation is the brightest-appearing star in the night sky?
+
+ANSWER: CANIS MAJOR
+
+15
+Multiple Choice  Of which of the following is the Hubble Law most directly a consequence:  W)  Doppler shift X)  Kirchoff’s second law Y)  Kepler’s second law Z)  Drake’s equation
+
+ANSWER: W)  DOPPLER SHIFT
+
+16
+Short Answer  What is the most accurate term astronomers use for the time it takes for a planet to orbit the Sun relative to the stars?
+
+ANSWER: SIDEREAL PERIOD
+
+17
+Multiple Choice  Which of the following is NOT true: W)  the star Sirius at its brightest has an apparent magnitude of about negative 1.5 X)  metal-rich stars sometimes have planets Y)  typical binoculars allow observation of stars with apparent magnitudes of about 9.0 Z)  the Sun has an apparent magnitude of about negative 12
+
+ANSWER: Z)  THE SUN HAS AN APPARENT MAGNITUDE OF ABOUT NEGATIVE 12
+
+18
+Multiple Choice  Astronomers will often refer to certain stars as low metal content stars.  In this sense astronomers consider metals as any element: W)  heavier than helium X)  heavier than carbon Y)  heavier than copper Z)  heavier than iron
+
+ANSWER: W)  HEAVIER THAN HELIUM
+
+19
+Multiple Choice  During which of the following orbital arrangements can a transit occur for the planet Venus: W)  opposition X)  greatest eastern elongation Y)  superior conjunction  Z)  inferior conjunction
+
+ANSWER: Z)  INFERIOR CONJUNCTION
+
+20
+Multiple Choice  Which of the following most directly addresses that a gas of low density, when excited, will emit light of a certain wavelength: W)  Kirchhoff’s second law X)  Bode’s second law Y)  Wien’s law Z)  Balmer’s law
+
+ANSWER: W)  KIRCHHOFF’S SECOND LAW
+
+21
+Multiple Choice  Which of the following is NOT true of coronal mass ejections: W)  they can lead to a loss in radio communications   X)  they can indirectly cause damage to electrical transformers  Y)  they typically will not damage space-based satellites  Z)  the next peak of ejections will likely be during the years 2010 to 2012
+
+ANSWER: Y)  THEY TYPICALLY WILL NOT DAMAGE SPACE-BASED SATELLITES
+
+22
+Short Answer  Choosing from upper left, upper right, lower left, and lower right, where on the HR diagram would a blue Supergiant be found?
+
+ANSWER: UPPER LEFT
+
+23
+Short Answer  What 2 planets of our solar system are most alike in elemental makeup to the solar nebula?
+
+ANSWER: JUPITER;  SATURN
+
+24
+Multiple Choice  Which of the following is LEAST accurate: W)  most stars visible to the unaided eye are part of the Milky Way galaxy X)  there are 88 constellations officially recognized by the IAU Y)  a red supergiant has a hotter surface than our Sun Z)  the constellation Leo is located within 9º of the ecliptic
+
+ANSWER: Y)  A RED SUPERGIANT HAS A HOTTER SURFACE THAN OUR SUN
+
+25
+Multiple Choice  Which of the following is NOT true: W)  the core of a red supergiant is hotter than the core of a main sequence K-type star X)  helium flash is something that occurs in red giant stars Y)  the Pleiades is an open star cluster Z)  there is more lithium than carbon in the universe
+
+ANSWER: Z)  THERE IS MORE LITHIUM THAN CARBON IN THE UNIVERSE
+
+26
+Multiple Choice  Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months: W)  the planet Venus passing within a few degrees of the Moon a few hours after sunset  X)  the Moon at perigee Y)  the planet Saturn passing with 5 degrees of the Moon Z)  the planet Mercury within 10 degrees of the zenith
+
+ANSWER: Z)  THE PLANET MERCURY WITHIN 10 DEGREES OF THE ZENITH
+
+27
+Short Answer  Through how many degrees does the Earth rotate in 8 hours?
+
+ANSWER: 120
+
+28
+Short Answer  As seen from the Earth, what planet has the smallest maximum eastern elongation?
+
+ANSWER: MERCURY
+
+29
+Multiple Choice  Which of the following is a space observatory, launched in 2004 through the combined effort of Italy, the United Kingdom, and the United States, for the detection and study of gamma-ray bursts: W)  SOHO X)  SWIFT Y)  MOC Z)  international GRB
+
+ANSWER: X)  SWIFT
+
+30
+Multiple Choice  How were the rings of the planet Uranus discovered: W)  astronomers in 1977 noticed stars were occulted by Uranus before the planet passed in front of them and reappeared afterwards X)  the Magellan 1 space probe took pictures of them Y)  the Hubble space telescope detected them with its infrared detector Z)  the rings are made of gases with certain signatures revealed in absorption spectra
+
+ANSWER: W)  ASTRONOMERS IN 1977 NOTICED STARS WERE OCCULTED BY URANUS
+
+31
+Multiple Choice  Which of the following is NOT true: W)  an eclipse of the Moon only occurs during a full Moon X)  Mercury will appear to be in its full phase when it is farthest from Earth Y)  an event horizon is associated with black holes Z)  no more than 50% of the Moon’s surface can be seen over any one year
+
+ANSWER: Z)  NO MORE THAN 50% OF THE MOON’S SURFACE CAN BE SEEN OVER
+
+32
+Multiple Choice  Which of the following is the most common location of young blue and white stars in a spiral galaxy: W)  halo X)  spiral arms Y)  nucleus Z)  throughout the entire galaxy
+
+ANSWER: X)  SPIRAL ARMS
+
+33
+Short Answer  For someone standing at 43° north latitude, how many degrees above the horizon will the north celestial pole be?
+
+ANSWER: 43
+
+34
+Multiple Choice  The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are: W)  younger than population II stars X)  older than population II stars Y)  usually closer to planetary nebula than population II stars Z)  often found near H-I (read as: H, one) regions
+
+ANSWER: W)  YOUNGER THAN POPULATION II STARS
+
+35
+Multiple Choice  Which of the following is closest to the range for the Balmer series: W)  microwave X)  infrared through UV Y)  UV to soft x-ray Z)  visible light to UV
+
+ANSWER: Z)  VISIBLE LIGHT TO UV
+
+36
+Short Answer  Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?
+
+ANSWER: LOWER LEFT
+
+37
+Short Answer  Giving your answer in decimal form, what would the “Z” value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?
+
+ANSWER: 0.4
+
+38
+Multiple Choice  Which of the following is NOT characteristic of B-type stars like Rigel or Spica (read as: SPY-kah): W)  very luminous X)  apparent blue color Y)  medium strength hydrogen spectral lines Z)  average solar mass of about 3.2
+
+ANSWER: Z)  AVERAGE SOLAR MASS OF ABOUT 3.2
+
+39
+Multiple Choice  Which of the following BEST describes where the zodiacal light is brightest to a stargazer at mid-northern latitudes: W)  within about 20 degrees of the ecliptic  X)  at the western horizon at sunrise Y)  at right angles to the Milky Way Z)  parallel with the Milky Way
+
+ANSWER: W) WITHIN ABOUT 20 DEGREES OF THE ECLIPTIC
+
+40
+Multiple Choice  Which of the following is the BEST explanation for what causes zodiacal light: W)  reflection of moonlight off the Earth’s surface X)  dispersion of the Earth’s radiant heat off the troposphere Y)  sunlight reflected off interplanetary dust particles Z)  radiation from the Van Allen belts
+
+ANSWER: Y)  SUNLIGHT REFLECTED OFF INTERPLANETARY DUST PARTICLES
+
+41
+Short Answer  If the surface temperature of a star increased from 6,000 kelvin to 18,000 kelvin, how many times as much energy would it radiate?
+
+ANSWER: 81
+
+42
+Multiple Choice  Which of the following positions is an inferior planet most likely in if it is seen just after sunset:    W)  opposition X)  superior conjunction Y)  greatest eastern elongation Z)  greatest western elongation
+
+ANSWER: Y)  GREATEST EASTERN ELONGATION
+
+43
+Multiple Choice  Which of the following is closest to the age of most chondrites: W)  150 million years X)  1.5 billion years Y)  4.6 billion years Z)  13.7 billion years
+
+ANSWER: Y)  4.6 BILLION YEARS
+
+44
+Multiple Choice  Which of the following best describes the hydrogen spectral line strength for an A-type star of about 3 solar masses: W)  missing X)  weak Y)  medium Z)  strong
+
+ANSWER: Z)  STRONG
+
+45
+Short Answer  If a star has a surface temperature of 3,000 degrees kelvin, a core temperature of 100 million Kelvin, and a luminosity of 2,000-times our Sun, choosing from upper right, upper left, lower left, and lower right, where on an H-R diagram would it most likely be found?
+
+ANSWER: UPPER RIGHT
+
+46
+Multiple Choice  Which of the following is LEAST likely to occur when viewed from mid-northern latitudes in the month of August: W)  Venus passing within 2º of Saturn X)  Neptune at opposition Y)  the Moon at apogee on the 1st of the month and perigee at the 29th of the month Z)  the Moon passing within 5º of Uranus
+
+ANSWER: Y)  THE MOON AT APOGEE ON THE 1ST OF THE MONTH AND PERIGEE AT
+
+47
+Multiple Choice  Which of the following was seen from mid-northern latitudes by casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern horizon: W)  Venus X)  Vega Y)  Jupiter Z)  Uranus
+
+ANSWER: Y)  JUPITER
+
+48
+Short Answer  If the surface of a star is 15,000 kelvin, at what wavelength, in nanometers rounded to the nearest whole number, does it emit its maximum energy?
+
+ANSWER: 200
+
+49
+Multiple Choice  Which of the following would astronomers most likely consider emission nebula: W)  Population III (read as: 3) regions X)  Population II (read as: 2) regions Y)  glowing H II (read as: H, 2) regions Z)  active regions
+
+ANSWER: Y)  GLOWING H II REGIONS
+
+50
+Multiple Choice  In which of the following locations would there typically be more Population Two stars than Population One stars: W)  in globular clusters X)  in spiral arms of galaxies  Y)  in planetary nebula  Z)  in regions actively forming stars
+
+ANSWER: W)  IN GLOBULAR CLUSTERS
+
+51
+Short Answer  What element makes up the innermost core of a type II (read as: type 2) supernova just before core collapse?
+
+ANSWER: IRON
+
+52
+Short Answer  From the LEAST to the MOST, what are the 3 most abundant elements in a G-type star?
+
+ANSWER: HYDROGEN;  HELIUM;  CARBON
+
+53
+Short Answer  What is another name for minor planets, starlike bodies, or planetoids, the vast majority of which have orbits roughly midway between the orbits of Jupiter and Mars?
+
+ANSWER: ASTEROIDS
+
+54
+Multiple Choice  Refracting telescopes always contain which of the following: W)  mirrors X)  lenses Y)  television systems Z)  film
+
+ANSWER: X)  LENSES
+
+55
+Short Answer  The Tharsis bulge is the major geological feature of what planet?
+
+ANSWER: MARS
+
+56
+Multiple Choice  Olympus Mons, one of the largest volcanoes in our solar system, is located on which planet: W)  Mars X)  Venus Y)  Titan Z)  Callisto
+
+ANSWER: W)  MARS
+
+57
+Short Answer  Name the Greek astronomer who ranked the naked-eye stars into six groups of relative brightness in the second century B.C.?
+
+ANSWER: HIPPARCHUS
+
+58
+Multiple choice  Which star is the next nearest neighbor to the Sun beyond the Alpha Centauri system having the largest known proper motion of any star: W)  Wolf 359 X)  Sirius Y)  Barnard’s Star Z)  61 Cygni
+
+ANSWER: Y)  BARNARD’S STAR
+
+59
+Multiple Choice  The geology of the surface of Venus appears to be dominated by: W)  volcanoes X)  plate tectonics Y)  erosion by flowing water Z)  old impact craters
+
+ANSWER: W)  VOLCANOES
+
+60
+Short Answer  At the Sun’s distance of 8 kiloparsecs from the Galactic center, how many years would it take for material here to complete one rotational circuit?
+
+ANSWER: 225 MILLION
+
+61
+Short Answer  What is the common astronomical term that derives its name from the Latin word meaning ocean or ‘seas’ that is used to label the darker and smoother parts of the moon’s surface:
+
+ANSWER: MARIA
+
+62
+Multiple Choice  Which of the following planets is NOT known to have any orbiting satellites:  W)  Venus X)  Mars Y)  Uranus Z)  Saturn
+
+ANSWER: W)  VENUS
+
+63
+Short Answer  Cassini’s division is associated with what planet?
+
+ANSWER: SATURN
+
+64
+Short Answer  What kind of celestial bodies have  cores that consist primarily of neutral particles in a superfluid state and are thought to have evolved from stars with masses more than about 1.4 times the Chandrasekhar limit?
+
+ANSWER: NEUTRON STARS  (DO NOT ACCEPT:  PULSAR)
+
+65
+Short Answer  What is the standard distance a star would need to be placed for it to appear as bright as its absolute magnitude?
+
+ANSWER: 10 PARSECS  (ACCEPT:  26 LIGHT YEARS)
+
+66
+Multiple Choice  Why did ancient Greek astronomers ascribe the term “planet” to certain celestial objects? W)  they shined very brightly X)  they wandered in their paths through the heavens Y)  they were believed to be the home of the gods Z)  they did not twinkle
+
+ANSWER: X)  THEY WANDERED IN THEIR PATHS THROUGH THE HEAVENS
+
+67
+Short Answer   Which law states that galaxies are receding from one another at velocities directly proportional to the distances separating them?
+
+ANSWER: HUBBLE’S LAW  (ACCEPT:  HUBBLE OR HUBBLE’S)
+
+68
+Multiple Choice The lunar maria are: W)  composed of granite X)  less than one billion years old Y)  between three and four billion years old Z)  older than the lunar highlands
+
+ANSWER: Y)  BETWEEN THREE AND FOUR BILLION YEARS OLD
+
+69
+Short Answer   Based on what three physical properties do astronomers divide the planets into terrestrial and Jovian:
+
+ANSWER: MASS, SIZE, AND DENSITY
+
+70
+Short Answer  If the sidereal period “P” of a planet is measured in years, and the semi-major axis of the planet’s elliptical orbit, “a”, is measured in astronomical units, then the equation governing the planet’s motion given by the formula, P2 = a3, is best known as what law?
+
+ANSWER: KEPLER’S THIRD LAW
+
+71
+Short Answer  What is the name for a lunar ditch where molten lava once flowed?
+
+ANSWER: VOLCANIC RILLE
+
+72
+Multiple Choice  Cepheid variables are a large and important group of: W)  yellow giants and super giants X)  red giants Y)  blue giants  Z)  pulsating quasars
+
+ANSWER: W)  YELLOW GIANTS AND SUPER GIANTS
+
+73
+Short Answer  What is the name of the simple astronomical instrument consisting of a vertical stick placed in a sunny spot to cast a shadow?
+
+ANSWER: GNOMON
+
+74
+Multiple Choice  Which of the following planets sees the Sun rising from the west and setting in the east during its Autumn and Spring equinoxes?  W)  Mars X)  Saturn Y)  Uranus Z)  Mercury
+
+ANSWER: Y)  URANUS
+
+75
+Multiple Choice  One important difference between spiral and elliptical galaxies is that: W)  spiral galaxies contain Population II stars X)  spiral galaxies contain clouds of gas and are still forming stars Y)  spiral galaxies contain a massive black hole Z)  spiral galaxies are formed by a more rapid accumulation of mass
+
+ANSWER: X)  SPIRAL GALAXIES CONTAIN CLOUDS OF GAS AND ARE STILL
+
+76
+Multiple Choice  A first quarter Moon will cross the meridian at what time of the day or night: W)  midnight X)  sunrise Y)  sunset Z)  noon
+
+ANSWER: W)  MIDNIGHT
+
+77
+Short Answer  What is the most common astronomical term for the angle analogous to geographical longitude?
+
+ANSWER: RIGHT ASCENSION  (ACCEPT:  ASCENSION)
+
+78
+Multiple Choice  Because of precession, the celestial pole traces out a complete circle on the sky about every: W)  26,000 years X)  12,000 years Y)  6,000 years Z)  600 years
+
+ANSWER: W)  26,000 YEARS
+
+79
+Multiple Choice The ecliptic is: W)  the line that divides the sky into the northern half and the southern half X)  the Sun's apparent path across the celestial sphere Y)  the point directly overhead Z)  the line on the celestial sphere directly above the celestial equator
+
+ANSWER: X)  THE SUN'S APPARENT PATH ACROSS THE CELESTIAL SPHERE
+
+80
+Short Answer  What is the brightest star in the Northern sky?
+
+ANSWER: ARCTURUS  (ACCEPT:  ALPHA BOÔTES)
+
+81
+Short Answer  What are generally considered the most common and most primitive type of meteorites?
+
+ANSWER: CHONDRITES
+
+82
+Multiple Choice  Which of the following was NOT known to be a planet until 1781 AD: W)  Saturn X)  Venus Y)  Mercury Z)  Uranus
+
+ANSWER: Z)  URANUS
+
+83
+Short Answer  What law states that the total amount of energy radiated per unit time from the surface of a body is related to the fourth power of its temperature?
+
+ANSWER: STEFAN-BOLTZMANN LAW  (ACCEPT:  STEFAN'S LAW)
+
+84
+Multiple Choice  Which of the following is believed to be the most likely composition of cosmic dust: W)  carbonaceous, silicate or iron-bearing materials with some frozen gases X)  hydrogen, helium and lithium crystals Y)  thorium, uranium and lead particles from dead stars Z)  pure ice crystals with small amounts of ionized hydrogen
+
+ANSWER: W)  CARBONACEOUS, SILICATE OR IRON-BEARING MATERIALS WITH
+
+85
+Multiple Choice  The angular distance of a star east of the Prime Meridian is most commonly referred to as the star’s: W)  deviation  X)  gnomon angle Y)  zenith point Z)  right ascension
+
+ANSWER: Z)  RIGHT ASCENSION
+
+86
+Short Answer  The nominal galactic center lies on the galactic plane in the direction of what constellation?
+
+ANSWER: SAGITTARIUS  (ACCEPT:  THE ARCHER)
+
+87
+Multiple Choice  If you could shrink the Earth to a quarter its present diameter while maintaining its mass, by what factor would the escape velocity change? W)  the escape velocity would be doubled X)  the escape velocity would be four times larger Y)  the escape velocity would remain unchanged Z)  the escape velocity would  be reduced by half
+
+ANSWER: W)  THE ESCAPE VELOCITY WOULD BE DOUBLED
+
+88
+Multiple Choice  Which of the following distance-measuring techniques measures the farthest: W)  radar ranging X)  stellar parallax Y)  variable stars Z)  standard candle/Tully-Fisher relation
+
+ANSWER: Z)  STANDARD CANDLE/TULLY-FISHER RELATION
+
+89
+Multiple Choice  Which of the following constellations can be seen highest  in the November sky of the northern hemisphere? W)  Orion X)  Cassiopeia Y)  Mensa Z)  Cancer
+
+ANSWER: X)  CASSIOPEIA
+
+90
+Short Answer  Which 2 of the following 5 minor planets have the largest diameters:  Eros,  Juno,  Ceres,  Amor,  Apollo
+
+ANSWER: CERES AND JUNO
+
+91
+Short Answer  Assuming that the Hubble constant = 40 km/sec/megaparsec,  how far away, in megaparsecs, is a galaxy whose red shift is 20,000 km/sec?
+
+ANSWER: 500 MEGAPARSECS
+
+92
+Multiple Choice   Most astrophysicists believe that the universe is: W)  isotropic and homogeneous X)  isotropic and non-homogeneous Y)  anistotropic and homogeneous Z)  anisotropic and non-homogeneous
+
+ANSWER: W)  ISOTROPIC AND HOMOGENEOUS
+
+93
+Short Answer  Of the following 5 planets, name all that can be in opposition to the Sun:  Venus,  Saturn,  Mercury,  Mars,  Jupiter
+
+ANSWER: SATURN,  MARS,  AND JUPITER  (accept  in any order)
+
+94
+Multiple choice  In which of the following illustrative techniques would  sunspots occur nearer the solar equator as the cycle of sunspot activity progresses:  W)  Kirkwood’s chart X)  Maunder’s diagram  Y)  Hubble’s chart Z)  HR diagram
+
+ANSWER: X)  MAUNDER’S DIAGRAM
+
+95
+Multiple Choice  To a stargazer in Ohio, a star far enough south of the celestial equator to be circumpolar such as Miaplacidus is: W)  only seen for about 6 hours X)  only seen briefly for about half an hour on the horizon Y)  only seen on the winter solstice Z)  never seen
+
+ANSWER: Z)  NEVER SEEN
+
+96
+Multiple Choice  Non-circumpolar stars that lie north of the celestial equator when viewed from Michigan will: W)  spend less than 6 hours above the horizon X)  spend more than 6 hours but less than 12 hours above the horizon Y)  spend more than 12 hours but less than 24 hours above the horizon Z)  spend 24 hours above the horizon
+
+ANSWER: Y)  SPEND MORE THAN 12 HOURS BUT LESS THAN 24 HOURS ABOVE THE
+
+97
+Multiple Choice  What shape do interstellar dust particles have since the light emitted by stars is dimmed and partially polarized: W)  sphere X)  cube Y)  disk Z)  rodlike
+
+ANSWER: Z)  RODLIKE
+
+98
+Multiple Choice Which of the following is not a characteristic of the terrestrial planets: W)  low average density X)  closely spaced orbits Y)  craters in old surfaces Z)  very few moons
+
+ANSWER: W)  LOW AVERAGE DENSITY
+
+99
+Multiple Choice  Which of the following is NOT true of Kepler’s works in astronomy: W)  Kepler gathered most of his data from his monitoring of the planets with a quadrant X)  Kepler very seldom observed the planets and looked through a telescope only a few times in his life Y)  many of Kepler’s computations were based on data gathered by Tycho Brahe Z)  Kepler assumed planetary motion was not circular
+
+ANSWER: W)  KEPLER GATHERED MOST OF HIS DATA FROM HIS MONITORING OF
+
+100
+Short Answer  If it were to be renamed today based on what constellation the sun is in on December 22nd, what would the new name be for the Tropic of Capricorn?
+
+ANSWER: TROPIC OF SAGITTARIUS   (ACCEPT:  SAGITTARIUS)
+
+101
+Short Answer  Members of the “Key Project”, while working with the Hubble space telescope, are using observation primarily of what specific type of celestial object to calculate the Hubble constant?
+
+ANSWER: CEPHEIDS  (ACCEPT:  CEPHEID VARIABLES)
+
+102
+Short Answer  If a star were to be 9 times farther away than it originally was, how many times fainter would it appear to be if all other things remain constant?
+
+ANSWER: 81 TIMES
+
+103
+Multiple Choice  Which of the following is the most likely reason that the Pleiades stars were all formed together: W)  they are all the same size, luminosity, and spectral class X)  they all orbit a common larger neutron star Y)  they are in the region of a black hole Z)  they are all concentrated in a small region
+
+ANSWER: Z)  THEY ARE ALL CONCENTRATED IN A SMALL REGION
+
+104
+Multiple Choice  Which of the following planets cannot come into quadrature with Earth: W)  Mars X)  Saturn Y)  Uranus Z)  Venus
+
+ANSWER: Z)  VENUS
+
+105
+Multiple Choice  Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens: W)  Huygens X)  orthoscopic Y)  Kellner Z)  Erfle
+
+ANSWER: Y)  KELLNER
+
+106
+Multiple Choice  Crux, Ara, Reticulum, and Tucana are all best known as: W)  craters on the moon  X)  canals on mars Y)  constellations Z)  maria on the moon
+
+ANSWER: Y)  CONSTELLATIONS
+
+107
+Short Answer  What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters?
+
+ANSWER: 40X  (ACCEPT:  40 TIMES OR 40)
+
+108
+Multiple Choice  Which of the following is the BEST description of our Sun: W)  a cool large star similar to Proxima Centauri X)  a small-sized star about 6 billion years old Y)  a mid-sized yellow dwarf star Z)  a large-sized red giant about 4.7 billion years old
+
+ANSWER: Y)  A MID-SIZED YELLOW DWARF STAR
+
+109
+Multiple Choice  Which of the following is NOT true:  W)  most of the meteorites that have been found have a high iron content X)  a bolometer is used to measure the energy output of the Sun Y)  the celestial coordinate analogous to latitude is called ascension Z)  sunlight reflecting off the Earth is called Earthshine
+
+ANSWER: Y)  THE CELESTIAL COORDINATE ANALOGOUS TO LATITUDE IS CALLED
+
+110
+Multiple Choice  Which of the following BEST describes the zenith: W)  the point in the sky that is at 180 degrees of inclination to the horizon X)  90 degrees opposite to the nadir Y)  the opposite position on the ecliptic to an observer Z)  the point on the celestial sphere directly overhead of an observer
+
+ANSWER: Z)  THE POINT ON THE CELESTIAL SPHERE DIRECTLY OVERHEAD OF AN
+
+111
+Multiple Choice  Our Sun is a: W)  A-type star X)  B-type star Y)  G-type star Z)  K-type star
+
+ANSWER: Y)  G-TYPE STAR
+
+112
+Short Answer  What element was first discovered through spectroscopic analysis of the Sun?
+
+ANSWER: HELIUM
+
+113
+Multiple choice  Main sequence stars are found in a region on the H-R diagram that is oriented on the diagram from: W)  upper left to lower left X)  upper left to lower right Y)  upper right to lower left Z)  upper right to lower right
+
+ANSWER: X)  UPPER LEFT TO LOWER RIGHT
+
+114
+Multiple Choice  Which of the following is the BEST explanation for why the Northern Hemisphere’s summer occurs when the Sun is not the closest to Earth in Earth’s orbit around the Sun:  W)  the Sun’s rays are made of mostly neutrinos that have such small mass that distance does not matter X)  the Sun emits different amounts of energy at different times of the year  Y)  the Sun’s rays strike the Northern Hemisphere more directly in summer Z)  because of precession
+
+ANSWER: Y)  THE SUN’S RAYS STRIKE THE NORTHERN HEMISPHERE MORE
+
+115
+Short Answer  What scientific term is given to the apparent path of the Sun around the celestial sphere?
+
+ANSWER: THE ECLIPTIC
+
+116
+Multiple Choice  At about 10 PM in late summer of 2006, an observer at about 35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the following places in the sky: W)  low in the east X)  low in the west Y)  about half way up in the northern sky Z)  almost directly overhead
+
+ANSWER: Z)  ALMOST DIRECTLY OVERHEAD
+
+117
+Multiple Choice  Which of the following can you estimate BEST if you know the color of a star: W)  luminosity  X)  elemental makeup Y)  temperature Z)  mass
+
+ANSWER: Y)  TEMPERATURE
+
+118
+Multiple Choice  Which of the following is closest to the maximum apparent brightness of the brightest star in the night sky from anywhere on Earth: W)  –15 X)  –1.5 Y)  4.5 Z)  6
+
+ANSWER: X)  –1.5
+
+119
+Multiple Choice  Which of the following is NOT true: W)  Vega is part of the summer triangle X)  the Seven Sisters is a star cluster Y)  Cassiopeia is a constellation generally shaped like a W Z)  cosmic rays are electromagnetic radiation of very high energies
+
+ANSWER: Z)  COSMIC RAYS ARE ELECTROMAGNETIC RADIATION OF VERY HIGH
+
+120
+Short Answer  The north magnetic pole of the Sun reverses every so many years.  How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals?
+
+ANSWER: 22
+
+121
+Multiple Choice  Which of the following would have a Widmanstätten Pattern:  W)  meteorite X)  comet Y)  planet Z)  constellation
+
+ANSWER: W)  METEORITE
+
+122
+Multiple Choice  Which of the following is the BEST description of the H-R Diagram: W)  it plots apparent brightness versus age X)  it plots luminosity versus surface temperature with highest temperatures on the right  Y)  it plots luminosity versus surface temperature with highest temperatures on the left  Z)  it plots apparent magnitude versus average stellar temperature
+
+ANSWER: Y)  IT PLOTS LUMINOSITY VERSUS SURFACE TEMPERATURE WITH
+
+123
+Multiple Choice  Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris: W)  Cassiopeia and Ursa Major X)  Orion and Leo Y)  Aquarius and Capricorn Z)   Leo and Sagittarius
+
+ANSWER: W)  CASSIOPEIA AND URSA MAJOR
+
+124
+Short Answer  What is the astronomical distance at which a star would have a parallax of 1 arcsecond?
+
+ANSWER: PARSEC
+
+125
+Multiple choice  Stars in the spectral class A would have a surface temperature of about: W)  5,000 K X)  10,000 K Y)  15,000 K Z)  20,000 K
+
+ANSWER: X)  10,000 K
+
+126
+Multiple Choice  Which of the following is LEAST accurate: W)  at the equator, stars appear to rise and set vertically X)  all Mira stars are Red Giants Y)  right ascension is analogous to longitude Z)  the Earth is closest to the Sun during December
+
+ANSWER: Z)  THE EARTH IS CLOSEST TO THE SUN DURING DECEMBER
+
+127
+Multiple Choice  Which of the following is the MOST commonly accepted reason as to why the planet Uranus rotates on its side: W)  it oscillates in its rotation orientation over thousands of years X)  it captured four of its moons early in its development which radically affected its primordial disk rotation  Y) it was once struck by a massive object  Z)  because of its orbital position and low density it was susceptible to a wide variety of axial rotational possibilities
+
+ANSWER: Y) IT WAS ONCE STRUCK BY A MASSIVE OBJECT
+
+128
+Multiple choice  A star is found to have a surface temperature of 20,000 kelvin.  Which of the following spectral types is it most likely to be: W)  A X)  F  Y)  G Z)  O
+
+ANSWER: Z)  O
+
+129
+Short Answer  What is the astronomical term for a planet’s orbital point that is closest to the Sun?
+
+ANSWER: PERIHELION
+
+130
+Multiple Choice  Which of the following is NOT true: W)  the rotation of the Sun’s surface is faster at the equator than at the poles X)   the apparent magnitude of an RR Lyrae depends most on its distance from the Earth Y)  Venus appears its largest to nighttime observers when it is in its full phase Z)  a star’s light curve typically plots brightness verses time
+
+ANSWER: Y)  VENUS APPEARS ITS LARGEST TO NIGHTTIME OBSERVERS WHEN IT IS
+
+131
+Multiple Choice  Which of the following techniques would you most directly be using if you were analyzing a Balmer and Lyman series: W)  astrolabe measurements X)  spectroscopy Y)  nuclear fission Z)  bolometric analysis
+
+ANSWER: X)  SPECTROSCOPY
+
+132
+Short Answer  What planet is never more than 28º from the Sun in the evening sky?
+
+ANSWER: MERCURY
+
+133
+Multiple Choice  Which of the following sets of constellations would be found nearest the ecliptic to an observer in mid-northern latitudes: W)  Leo, Virgo, and Scorpius X)  Pisces, Aries, and Draco Y)  Cancer, Gemini, and Cassiopeia Z)  Taurus, Ursa Minor, and Pisces
+
+ANSWER: W)  LEO, VIRGO, AND SCORPIUS
+
+134
+Multiple Choice  Which of the following BEST describes the location of the heliosphere: W)  the region that extends a few thousand kilometers outside of the Sun’s corona X)  the region that extends from the Sun’s corona to the end of the solar system Y)  the region that extends from the Sun’s core to the end of the solar system Z)  the region of the expanding solar wind between the sun and the heliopause
+
+ANSWER: Z)  THE REGION OF THE EXPANDING SOLAR WIND BETWEEN THE SUN
+
+135
+Multiple Choice  Which of the following BEST describes the position of the first quarter Moon to an observer in northern mid-latitudes on a clear summer night just after sunset: W)  rising in the east  X)  setting in the west Y)  high in the south Z)  unable to be seen
+
+ANSWER: Y)  HIGH IN THE SOUTH
+
+136
+Multiple Choice  The Schmidt telescope would BEST be considered: W)  an advanced adaptive optics telescope with x-ray detection capabilities X)  a wide field telescope  Y)  a radio telescope  Z)  an orbital x-ray telescope
+
+ANSWER: X)  A WIDE FIELD TELESCOPE
+
+137
+Multiple Choice  Which of the following is NOT true: W)  the planet Venus has a high albedo X)  a gnomon is a very simple astronomical instrument Y)  the Moon is found at over 10 degrees north of the ecliptic in a lunar standstill year Z)  carbon is probably the fourth most common element in the universe
+
+ANSWER: Y)  THE MOON IS FOUND AT OVER 10 DEGREES NORTH OF THE ECLIPTIC
+
+138
+Short Answer  Which one of the following 4 planets has the smallest orbital eccentricity:  Mercury;  Jupiter;  Venus;  Saturn
+
+ANSWER: VENUS
+
+139
+Multiple Choice  Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission: W)  Chandra X-ray observatory X)  Arecibo radio telescope Y)  Hubble gamma-ray telescope Z)  Spitzer infrared spectrograph
+
+ANSWER: Z)  SPITZER INFRARED SPECTROGRAPH
+
+140
+Multiple choice  By what multiple does the brightness of two stars differ with apparent magnitudes of –3 and +4:  W)  2.5 X)  25   Y)  250 Z)  625
+
+ANSWER: Z)  625
+
+141
+Multiple Choice  Which of the following is LEAST accurate: W)  recent evidence suggests a subsurface salty ocean is present on the Moon Europa X)  spiral galaxies are actively forming stars Y)  Earth’s aphelion occurs on the summer solstice Z)  Julian days are often used as the time reference on light curves of stars
+
+ANSWER: Y)  EARTH’S APHELION OCCURS ON THE SUMMER SOLSTICE
+
+142
+Multiple Choice  What would happen in the mid-northern latitudes if the tilt of the Earth’s axis decreased by 15 degrees: W)  warmer summers and warmer winters X)  cooler summers and cooler winters Y)  cooler summers and warmer winters Z)  colder summers and colder winters
+
+ANSWER: Y)  COOLER SUMMERS AND WARMER WINTERS
+
+143
+Short Answer  A stargazer looks at Orion and sees a reddish star called Betelgeuse.  The redness is because the star is what type of star?
+
+ANSWER: A RED GIANT
+
+144
+Multiple Choice  All the stars of the Pleiades open cluster have: W)  the same luminosities X)  the same surface temperatures  Y)  very similar chemical compositions Z)  the same apparent magnitudes
+
+ANSWER: Y)  VERY SIMILAR CHEMICAL COMPOSITIONS
+
+145
+Multiple Choice  When binary stars are made of a main sequence star and a compact white dwarf, as long as the white dwarf’s mass remains below 1.4 solar masses then the gas falling into the white dwarf is believed to often result in a: W)  supernova X)  nova Y)  pulsar Z)  quasar
+
+ANSWER: X)  NOVA
+
+146
+Multiple Choice  In what area of the sky would the planet Venus be MOST likely to be seen a few hours after sunset from mid-northern latitudes: W)  low in the western sky X)  high in the southern sky  Y)  directly overhead Z)  high in the northern sky
+
+ANSWER: W)  LOW IN THE WESTERN SKY
+
+147
+Short Answer  How many degrees along the meridian is the nadir from the zenith?
+
+ANSWER: 180
+
+148
+Multiple Choice  Which of the following is the next stage in the evolution of a single star after the red giant stage: W)  white dwarf X)  red dwarf Y)  planetary nebula  Z)  nova
+
+ANSWER: Y)  PLANETARY NEBULA
+
+149
+Multiple Choice  Microlensing is BEST explained by which of the following theories or laws: W)  Quantum theory X)  General Relativity Y)  Kirchhoff’s laws Z)  Maxwell’s law
+
+ANSWER: X)  GENERAL RELATIVITY
+
+150
+Multiple Choice  Which of the following is a type of telescope technology that uses mirrors whose shapes can be deformed: W)  Schmidt optics  X)  redundant interfermetric optics  Y)  CCD optics  Z)  adaptive optics
+
+ANSWER: Z)  ADAPTIVE OPTICS
+
+151
+Multiple Choice  Landform deposits called linear dunes that were recently found on the moon Titan are MOST directly produced by: W)  tectonic activity X)  wind Y)  erosion by the retreat and advance of large seas of liquid methane  Z)  streaks in the surface following low-angle meteorite impacts
+
+ANSWER: X)  WIND
+
+152
+Multiple Choice  The Wilkinson Microwave Anisotropy Probe was specifically designed to: W)  map all matter in the universe down to a resolution of 1 arc second X)  map the cosmic background radiation to much greater accuracy and precision than previous instruments Y)  map the size and locations of the Local Group Z)  map the exact location of the active galactic center of the Milky Way
+
+ANSWER: X)  MAP THE COSMIC BACKGROUND RADIATION TO MUCH GREATER
+
+153
+Short Answer  If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release?
+
+ANSWER: 81  (ACCEPT:  34)
+
+154
+Multiple Choice  Which of the following is LEAST accurate: W)  magnetic fields can be strongly amplified when 2 neutron stars merge X)  Saturn’s moon Titan has been found to have large dunes Y)  hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites Z)  interplanetary dust particles are typically nitrogen-rich and carbon-poor
+
+ANSWER: Z)  INTERPLANETARY DUST PARTICLES ARE TYPICALLY NITROGEN-RICH
+
+155
+Multiple Choice  Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission: W)  Chandra X-ray observatory X)  Arecibo radio telescope Y)  Hubble gamma-ray telescope Z)  Spitzer infrared spectrograph
+
+ANSWER: Z)  SPITZER INFRARED SPECTROGRAPH
+
+156
+Multiple choice  By what multiple does the brightness of two stars differ with apparent magnitudes of –3 and +4:  W)  2.5 X)  25   Y)  250 Z)  625
+
+ANSWER: Z)  625
+
+157
+Short Answer  If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy?
+
+ANSWER: 16  (ACCEPT:  24)
+
+158
+Short Answer  How many sidereal minutes are in 4 sidereal hours?
+
+ANSWER: 240
+
+159
+Short Answer  Name all of the following 4 objects that would NOT be found on Earth:  meteors;  craters;  asteroid impact remnants;  bolides
+
+ANSWER: METEORS;  BOLIDES
+
+160
+Multiple Choice  If an astronomer photographed a massive cloud of ionized hydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically appear to us: W)  white X)  green Y)  pink Z)  blue
+
+ANSWER: Y)  PINK
+
+161
+Multiple Choice  Which of the following was discovered in the 1600’s about Venus that was strong evidence that the planets orbited the Sun: W)  Venus’s cloud cover reverses its direction in the sky at certain times of the year X)  Venus has phases varying from crescent to full Y)  Venus has an axial motion opposite to that of the Earth Z)  Venus is the brightest planet in the sky only part of the year
+
+ANSWER: X)  VENUS HAS PHASES VARYING FROM CRESCENT TO FULL
+
+162
+Multiple choice  According to the location in the H-R diagram, which of the following stars has the highest absolute visual magnitude and is also the hottest: W)  one located in the upper left of the diagram X)  one located in the upper right of the diagram Y)  one located in the lower left of the diagram Z)  one located in the lower right of the diagram
+
+ANSWER: W)  ONE LOCATED IN THE UPPER LEFT OF THE DIAGRAM
+
+163
+Short Answer  What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a magnetic field?
+
+ANSWER: ZEEMAN EFFECT
+
+164
+Short Answer  What is the most common astronomical term for the geometrical configuration where Venus is between the Earth and the Sun?
+
+ANSWER: INFERIOR CONJUNCTION
+
+165
+Multiple Choice  Which of the following is the BEST explanation of why Population One stars have a high metal content: W)  old stars lose their metals as they age X)  old stars convert their metals to non-metals Y)  young stars acquire metals when they form from previous stars that created the metals   Z)  all stars accumulate metals early in their development
+
+ANSWER: Y)  YOUNG STARS ACQUIRE METALS WHEN THEY FORM FROM PREVIOUS
+
+166
+Multiple Choice  Which of the following is the BEST description of the composition of our Sun: W)  71% hydrogen, 27% helium, and 2% other X)  80% hydrogen, 19% helium, and 1% other Y)  90% hydrogen, 9% helium, and 1% other Z)  99% hydrogen, 1% helium
+
+ANSWER: W)  71% HYDROGEN, 27% HELIUM, AND 2% OTHER
+
+167
+Multiple Choice  Which of the following is the BEST reason why the Sun’s corona primarily emits x-rays: W)  it has a high-strength magnetic field X)  it is where most of the neutrinos escape to outer space Y)  it is a convecting zone  Z)  it is very hot
+
+ANSWER: Z)  IT IS VERY HOT
+
+168
+Multiple Choice  Which of the following is a spacecraft that is stationed to continuously observe the Sun: W)  Chandra X)  Hubble  Y)  SOHO  (read as: so-ho) Z)  Galileo 3
+
+ANSWER: Y)  SOHO
+
+169
+Short Answer  In what region of the electromagnetic spectrum is a supernova most commonly detected?
+
+ANSWER: ULTRAVIOLET  (ACCEPT:  UV)
+
+170
+Multiple Choice  Which of the following is TRUE: W)  the far side of the Moon from Earth has more large maria than the near side X)  the next sunspot minimum is expected in 2008 Y)  the declination of the Sun during the winter solstice is 23.5 degrees north Z)  B-type stars have strong absorption lines for neutral helium
+
+ANSWER: Z)  B-TYPE STARS HAVE STRONG ABSORPTION LINES FOR NEUTRAL
+
+171
+Multiple Choice  Which of the following is the BEST description of a Cepheid variable star: W)  a pulsating variable varying in brightness in a very regular time period of 1 to 50 days  X)  a short pulsating variable with a very regular period of 1 to 4 minutes Y)  a binary star system with an eclipsing partner Z)  a small k-type star with a very regular period of 1 to 3 weeks
+
+ANSWER: W)  A PULSATING VARIABLE VARYING IN BRIGHTNESS IN A VERY
+
+172
+Multiple choice  Which of the following is LEAST accurate: W)  the Sun’s corona is hotter than both the photosphere and the chromosphere  X)  the Crab nebula is a remnant of a supernova that collapsed in the year 1054 Y)  equinoxes are points on the celestial sphere where the celestial equator is intersected by the ecliptic Z)  epicycles were employed by Ptolemy to explain retrograde motion in planets
+
+ANSWER: X)  THE CRAB NEBULA IS A REMNANT OF A SUPERNOVA THAT
+
+173
+Multiple Choice  Which of the following is LEAST likely true about gamma ray bursts: W)  they are extremely powerful emissions of energy  X)  they are probably often associated with black holes Y)  they probably result from a neutron star merging with a black hole Z)  they typically last less than a hundredth of a second
+
+ANSWER: Z)  THEY TYPICALLY LAST LESS THAN A HUNDREDTH OF A SECOND
+
+174
+Multiple Choice  Which of the following MOST directly predicts that the maximum mass possible for a white dwarf is about 1.4-times that of the Sun: W)  the Hubble constant X)  the Chandrasekhar limit  (read as: chan-dra-SAY-kar) Y)  General Relativity Z)  the Fornax theorem
+
+ANSWER: X)  THE CHANDRASEKHAR LIMIT
+
+175
+Multiple choice  Which of the following is illustrated on Maunder’s diagram:  W)  sunspot activity  X)  stellar luminosity Y)  cometary periods Z)  planetary orbital periods
+
+ANSWER: W)  SUNSPOT ACTIVITY
+
+176
+Multiple choice  In the second step of the proton-proton chain, which of the following occurs: W)  a proton combines with deuterium to produce helium-3 and a gamma ray is emitted X)  a neutron combines with deuterium to produce helium-3 and a neutrino is emitted Y)  a proton combines with deuterium to produce helium-3 and a neutrino ray is emitted Z)  a neutron combines with deuterium to produce helium-2 and a positron is emitted
+
+ANSWER: W)  A PROTON COMBINES WITH DEUTERIUM TO PRODUCE HELIUM-3 AND
+
+177
+Short Answer  If a stellar body’s surface is 5,000 kelvin, what is its peak emission of electromagnetic radiation, in nanometers?
+
+ANSWER: 580
+

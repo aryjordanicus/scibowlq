@@ -1,0 +1,3450 @@
+0
+Short Answer  What term BEST describes 2 angles with 90º as the sum of their measurements?
+
+ANSWER: COMPLEMENTARY
+
+1
+Short Answer  Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90º triangle is 10 inches, find the length of the other sides:
+
+ANSWER: 5 2   (ACCEPT:  BOTH 5 2 )
+
+2
+Short Answer  Giving your answer in terms of π and in inches, what is the arc-length of a semi-circle whose diameter is 18 inches?
+
+ANSWER: 9π
+
+3
+Multiple Choice  Which of the following numbers is evenly divisible by both 11 and 3: W)  7791 X)  7553 Y)  5181 Z)  8769
+
+ANSWER: Y)  5181
+
+4
+Multiple Choice  One-fifth of 0.04% is equal to: W)  8 × 10–2 X)  8 × 10–3 Y)  8 × 10–4 Z)  8 × 10–5
+
+ANSWER: Z)  8 × 10–5
+
+5
+Short Answer  Find the prime factorization of 240:
+
+ANSWER: 2 × 2 × 2 × 2 × 3 × 5  (ACCEPT:  24 × 3 × 5)
+
+6
+Short Answer  Giving your answer in standard form, what is the last term in the binomial expansion of the following:  (x + y)6
+
+ANSWER: y6
+
+7
+Short Answer  Factor the following expression completely:  81x2 + 180xy + 100y2
+
+ANSWER: (9x + 10y)2
+
+8
+Multiple Choice  If triangle ABD is congruent with triangle EFG, which of the following MUST be true: W)  side AB is congruent to side EF X)  side AD is congruent to side FG Y)  measure of angle B = measure of angle G Z)  measure of angle A = measure of angle G
+
+ANSWER: W)  SIDE AB IS CONGRUENT TO SIDE EF
+
+9
+Short Answer  Simplify the following rational expression by combining like terms, assuming x is not equal to 4:  x(4(2x−−)162x)
+
+ANSWER: 
+
+10
+Short Answer  Consider triangle ABC, where the measure of angle A = 20º, B =117º, and C = 43º.  Arrange the 3 sides in order of increasing length:
+
+ANSWER: BC;  AB;  AC
+
+11
+Short Answer  Simplify the following expression:  1xx2259x   (ACCEPT:   10109x )
+
+ANSWER: 
+
+12
+Short Answer  What is the slope of a line perpendicular to the line given by the graph of the equation, –5x = –6y + 4
+
+ANSWER: –
+
+13
+Multiple Choice  Which of the following is NOT a Pythagorean triple: W)  15, 20, 25 X)  10, 24, 26 Y)  16, 24, 30 Z)  33, 44, 55
+
+ANSWER: Y)  16, 24, 30
+
+14
+Short Answer  Evaluate the following expression when a = d = –5:   2[3a – (b + c) – 4d]
+
+ANSWER: 36
+
+15
+Short Answer  Simplify the following without the use of negative exponents:  524−103yx62zy
+
+ANSWER: –
+
+16
+Short Answer  It takes 20 minutes for Janis to prepare lunch.  When Kristen helps, it only takes 12 minutes.  How many minutes would it take Kristen to prepare the same lunch if she worked alone?
+
+ANSWER: 30
+
+17
+Short Answer  In a circle with diameter AB, if the radius is 6 centimeters, find the length in centimeters, giving your answer in terms of π, of the arc AB:
+
+ANSWER: 6π
+
+18
+Short Answer  Find the area, in square centimeters, of a rhombus with a diagonal of 6 centimeters and a side of 5 centimeters:
+
+ANSWER: 24
+
+19
+Short Answer  A jar of 100 marbles contains only 2 colors of marbles, red and blue.  If there are 13 red marbles for every 12 blue marbles, how many blue marbles are in the jar?
+
+ANSWER: 48
+
+20
+Short Answer  Solve the following inequality for x:  |3 – 2x| ≤ 7  (read as: the absolute value of, 3 minus 2x, close absolute value, is less than or equal to 7)
+
+ANSWER: –2 ≤ x ≤ 5  (ACCEPT:  5 ≥ x ≥ –2)
+
+21
+Short Answer  Factor the following expression completely:  100x2 – 25y2
+
+ANSWER: 25(2x + y)(2x – y)
+
+22
+Short Answer  Giving your answer as a fraction reduced to lowest terms, solve the following equation for x:
+
+ANSWER: –
+
+23
+Short Answer  Simplify the following rational expression:  59yy2x3−2x5+
+
+ANSWER: CANNOT BE FURTHER SIMPLIFIED  (ACCEPT:
+
+24
+Short Answer  What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and –3, –4?
+
+ANSWER: –10
+
+25
+Short Answer  Solve the following equation for x:  –2|3 + (2 times the absolute value of 3 plus, open parenthesis, x divided by 2, close parenthesis, close absolute value, equals negative 10)
+
+ANSWER: 4 AND –16
+
+26
+Short Answer  Solve the following equation for all real values of x:   1 2x8
+
+ANSWER: 4 OR –2
+
+27
+Multiple Choice  Which of the following is NOT true: W)  all central angles in a regular polygon are equal X)  irregular polygons are not considered to have centers and have no central angles Y)  the circumcircle of a regular polygon is the circle that passes through at least one vertex Z)  all regular polygons are convex
+
+ANSWER: Y)  THE CIRCUMCIRCLE OF A REGULAR POLYGON IS THE CIRCLE THAT
+
+28
+Short Answer  Find the sum of all interior angles, in degrees, in a regular polygon having 100 sides:
+
+ANSWER: 17,640
+
+29
+Short Answer  Find 2 mean proportionals between the numbers 3 and 24:
+
+ANSWER: 6 AND 12
+
+30
+Short Answer  Find the numerical value of the geometric mean of the following 4 values:  21;  23;  28;  28
+
+ANSWER: 32  (DO NOT ACCEPT:  25)
+
+31
+Short Answer  There are 10 people on a bus who, when ranked from youngest to oldest, all differ from those on the bus closest in age to them by the same number of years.  If the youngest is 6 and the oldest is 51, what is the common difference in their age?
+
+ANSWER: 5
+
+32
+Short Answer  Solve the following equation for all real values of x:  (x + 3)2 = 16
+
+ANSWER: 1 AND –7
+
+33
+Short Answer  Giving your answer in standard form, give the equation of the circle with center at (0, 0) and diameter of 6:
+
+ANSWER: x2 + y2 = 9
+
+34
+Short Answer  If the area of a regular pentagon is 280 square centimeters, what is the length, in centimeters, of each side if the apothem is 16 centimeters?
+
+ANSWER: 7
+
+35
+Short Answer  A circle has a diameter of 32 meters.  Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:
+
+ANSWER: 90
+
+36
+Short Answer  Find the sum of the first 10 terms of the arithmetic sequence whose first three terms are 7, 11, and 15:
+
+ANSWER: 250
+
+37
+Short Answer  Find the x and y intercepts of the line passing through the point (4, 8) that is perpendicular to the line 3x – 6y – 12 = 0:
+
+ANSWER: X-INTERCEPT = (8, 0) (ACCEPT:  8);  Y-INTERCEPT = (0, 16)  (ACCEPT: 16)
+
+38
+Short Answer  Find the cotangent and cosecant, respectively, of a 90º angle:
+
+ANSWER: COTAN = 0;  COSECANT = 1
+
+39
+Short Answer  The terminal side of angle θ (read as: theta) in standard position passes through the point (–5, 12).  Find the sine, cosine and tangent, in fractional form:
+
+ANSWER: SIN =
+
+40
+Short Answer  Giving your answer in millimeters squared, find the lateral surface area of a right pentagonal prism whose altitude is 12 millimeters and base has sides of length 8, 10, 12, 14, and 16 millimeters, respectively:
+
+ANSWER: 720
+
+41
+Multiple Choice  The graph of the relation y = W)  circle X)  semi-circle Y)  parabola Z)  straight line
+
+ANSWER: X)  SEMI-CIRCLE
+
+42
+Short Answer  If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find y when x = 10 and z = 20:
+
+ANSWER: 120
+
+43
+Short Answer  Giving your answer in simplest radical form, rationalize the denominator of the following expression:  −3(23−)5
+
+ANSWER: 
+
+44
+Short Answer  Identify the type of conic section represented by the equation,  x2 + y2 + 10y + 16 = 0:
+
+ANSWER: CIRCLE
+
+45
+Short Answer  Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters:
+
+ANSWER: 48 3
+
+46
+Short Answer  Simplify i17  (read as: i to the 17th power):
+
+ANSWER: i
+
+47
+Short Answer  Solve the following equation for x:
+
+ANSWER: 4 OR –4  (ACCEPT:
+
+48
+Multiple Choice  What is the product of the following 2 values: (1) the greatest common divisor of 7 and 14; and (2) the least common multiple of 7 and 14:     W)  21 X)  49 Y)  98 Z)  196
+
+ANSWER: Y)  98
+
+49
+Multiple Choice  Which of the following is NOT true of matrices: W)  a square matrix that has an inverse is called invertible X)  a matrix does not have to have an inverse Y)  a matrix that does not have an inverse is called non-singular Z)  a matrix must be square in order to have an inverse
+
+ANSWER: Y)  A MATRIX THAT DOES NOT HAVE AN INVERSE IS CALLED NON-
+
+50
+Short Answer  Giving your answer as an ordered pair, find the solution of the system of the following 2 equations:  x =
+
+ANSWER: (0, 3)
+
+51
+Short Answer  By words or number, name all of the following 3 statements that are TRUE for the function,  f(x) = –3x2 – 2x – 2 = 0:
+
+ANSWER: ALL
+
+52
+Short Answer  Factor the following expression completely over the integers:  x4 – 16
+
+ANSWER: (x – 2)(x + 2)(x2 + 4)
+
+53
+Short Answer  Giving your answers in terms of π and in inches squared, find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:
+
+ANSWER: 96π
+
+54
+Short Answer  What are the coordinates of the vertex in the graph of the following equation:  y = 4x2 + 8x – 5
+
+ANSWER: (–1,  –9)
+
+55
+Short Answer  An object is launched straight up from the ground with an initial velocity of 176 feet per second.  What is the height of the object above the ground, in feet, 2 seconds into the flight?
+
+ANSWER: 288
+
+56
+Multiple Choice  Which of the following represents the inverse function of f(x) = x3 + 5: W)  (x – 5)3 X)  x3 – 5  313)55( −x1−xY)  Z)
+
+ANSWER: Y)
+
+57
+Short Answer  Giving your answer in meters squared, find the total surface area of a right prism whose base is a right triangle with legs of length 3 meters and 4 meters and whose altitude is 2 meters:
+
+ANSWER: 36
+
+58
+Short Answer  Given f(x) = x2 + 2x + 3, express f(x + 1) in standard polynomial form:
+
+ANSWER: x2 + 4x + 6
+
+59
+Short Answer  In the algebra of real-valued functions, give the name or number of all of the following 3 choices that the implied domain usually excludes:
+
+ANSWER: 1 AND 2
+
+60
+Multiple Choice  A data set has a mean of 10 and variance of 10.  If every set element is multiplied by 2, which of the following is TRUE of the new mean and variance:  W)  mean is 20, variance is 40 X)  mean is 20, variance is 10 Y)  mean is 20, variance is 20 Z)  mean is 10, variance is 20
+
+ANSWER: W)  MEAN IS 20, VARIANCE IS 40
+
+61
+Short Answer  Convert the angle, 18º18’36” (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:
+
+ANSWER: 18.31
+
+62
+Multiple Choice  The graph of r = 3 secant (θ) (read as: r = 3 secant theta) is a: W)  parabola X)  circle    Y)  hyperbola    Z)  line
+
+ANSWER: Z)  LINE
+
+63
+Short Answer  Give the resulting vector for the cross product of vector vector
+
+ANSWER: 
+
+64
+Short Answer  Arrange the following 4 radicals in order of increasing value: 6 12 ;   6 63 ;   3 2 ;   4 8
+
+ANSWER: 3 2 ;   6 12 ;   4 8 ;   6 63
+
+65
+Short Answer  If a point has polar coordinates (3, π), what are the rectangular coordinates?
+
+ANSWER: (–3, 0)
+
+66
+Short Answer  The graph of the polar equation, r = 5 – 5 cosine θ, is a cardioid.  In which two quadrants is most of the area of this cardioid?
+
+ANSWER: II AND III  (ACCEPT:  2 AND 3 or SECOND AND THIRD)
+
+67
+Short Answer  The point (3, 2) is reflected across the graph of y = 6 and the resulting point is then reflected across the graph of y = x.  What are the coordinates of the final point?
+
+ANSWER: (10, 3)
+
+68
+Short Answer  Of the following 5 functions identify all that are NOT differentiable for all real numbers:  | x | (read as: absolute value of x);  cosine(x);  tangent(x);   ex;   the greatest integer function
+
+ANSWER: | x |;  TAN(x);  THE GREATEST INTEGER FUNCTION
+
+69
+Multiple Choice  Which of the following is TRUE about any two successive terms in the Fibonacci sequence: W)  their product is a Fibonacci number X)  they are either both odd or both even Y)  they are relatively prime Z)  their quotient is the golden ratio
+
+ANSWER: Y)  THEY ARE RELATIVELY PRIME
+
+70
+Multiple Choice  Which of the following is the equation for the tangent line for y = x4 at the point (1, 1): W)  y = 4x – 3  X)  y = 4x – 1  Y)  y = 4x + 1  Z)  y = 4x + 3
+
+ANSWER: W)  y = 4x – 3
+
+71
+Short Answer  What are the coordinates of the hole in the graph of the function, g(x) = ?  22((xx)8−)2−
+
+ANSWER: (2, 8)
+
+72
+Short Answer  How many solutions are there for the equation, cosine 4x = interval 0 ≤ x < 2π?
+
+ANSWER: 8
+
+73
+Short Answer  Cards numbered 1 through 10 lie on a table.  If two cards are picked at random, without replacement, what is the probability, as a fraction in lowest terms, that the two cards will have values within one of each other?
+
+ANSWER: 1/5
+
+74
+Short Answer  If y varies directly as x, and y = 42 when x = 30, find y if x = 45:
+
+ANSWER: 63
+
+75
+Multiple Choice  Which of the following numbers is divisible by 9: W)  3191 X)  3527 Y)  212,526 Z)  439,327
+
+ANSWER: Y)  212,526
+
+76
+Multiple Choice  Which of the following is a rational number: W)  1+ 4  X)  2+ 5  Y)   6  Z)  π
+
+ANSWER: W)  1+ 4
+
+77
+Short Answer  If the average of 5 numbers is 16, what is the sum of the 5 numbers?
+
+ANSWER: 80
+
+78
+Short Answer  Find the prime factorization of 1050:
+
+ANSWER: 2×3×5×5×7  (ACCEPT:  2×3×52×7)
+
+79
+Short Answer  Convert 135° into radians:
+
+ANSWER: 
+
+80
+Short Answer  Solve the following inequality:  3 – 6x > 15
+
+ANSWER: x < -2
+
+81
+Short Answer  What is the formula for the volume of a sphere?
+
+ANSWER: 
+
+82
+Short Answer  Subtract the following 2 polynomials:                                      (-4x3y + 2x3y2 + 2x2y3 + 2y) – (4x3y – 7x3y2 + x2y3 – y)
+
+ANSWER: –8x3y + 9x3y2 + x2y3 + 3y
+
+83
+Short Answer  To the nearest cubic inch, find the volume of a sphere whose diameter is 4 inches:
+
+ANSWER: 33  (ACCEPT:  32 – 34)
+
+84
+Short Answer  Convert 300° into radians:
+
+ANSWER: 
+
+85
+Short Answer  Find the following number:  When the number, one-half of the number, and one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the number:
+
+ANSWER: -24
+
+86
+Multiple Choice  A parallelogram whose adjacent sides are unequal is called a: W)  rhombus X)  rhomboid Y)  deltoid Z)  rectangle
+
+ANSWER: X)  RHOMBOID
+
+87
+Short Answer  What is the longest chord of a circle also known as?
+
+ANSWER: DIAMETER OF THE CIRCLE  (ACCEPT:  DIAMETER)
+
+88
+Multiple Choice  Using the Cartesian coordinate system, find the distance between the points (2, 3) and (-3, 1): W)   29  X)   7  Y)   5  Z)   39
+
+ANSWER: W)   29
+
+89
+Short Answer  What is the smallest integer that satisfies the following inequality:  x2
+
+ANSWER: 7
+
+90
+Short Answer  What parameter, usually signified by a lower case r, describes the direction and strength of a straight-line relationship between two quantifiable variables?
+
+ANSWER: CORRELATION  (ACCEPT:  PEARSON’S CORRELATION or CORRELATION
+
+91
+Short Answer  If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3;  set B by the numbers 3, 4, 5, 6;  and set C by the numbers 2, 3, 4, then what set is represented by the union of sets A and B?
+
+ANSWER: 1, 2, 3, 4, 5, 6
+
+92
+Short Answer  Simplify the following equation:
+
+ANSWER: 
+
+93
+Short Answer  Simplify the ratio of the following factorial:  divided by 6 factorial)
+
+ANSWER: 1/30  (ACCEPT:  0.033)
+
+94
+Short Answer  Name 2 consecutive ODD integers where 5 times the second number minus 6 times the first number equals –55:
+
+ANSWER: –65 AND –67  (must be in order)
+
+95
+Short Answer  Convert to both radians and degrees the angle that equals one-half of radians:
+
+ANSWER: 
+
+96
+Multiple Choice  In a normal distribution, a mean of a sample population, plus or minus 1 standard deviation, includes what percentage of the sample: W)  16% X)  32% Y)  68% Z)  95%
+
+ANSWER: Y)  68%
+
+97
+Short Answer  What is the 13th term in the following arithmetic progression:  2, 7, 12…
+
+ANSWER: 62
+
+98
+Multiple Choice  Which of the following angles would be located in Quadrant IV of a rectangular coordinate system: W)  2/3 rev X)  -480° Y)  3/16 rev Z)  0.8 rev
+
+ANSWER: Z)  0.8 REV
+
+99
+Short Answer  In the following number sequence, what are the values for a, b and c:   a, b, 38, 22, 14, 10, c
+
+ANSWER: a = 134;  b = 70;  c = 8
+
+100
+Multiple Choice  Using the Cartesian coordinate system, find the distance between the points (-4, 3) and (2, 6): W)  3 5  X)   12  Y)  3 Z)  5 3
+
+ANSWER: W)  3 5
+
+101
+Multiple Choice  If one considers the distribution of the means of 5 groups, such a distribution is most accurately referred to as a: W)  sample distribution X)  sampling distribution Y)  composite distribution Z)  population distribution
+
+ANSWER: X)  SAMPLING DISTRIBUTION
+
+102
+Short Answer  If the area of a right triangle ABC is 6 and leg BC is one-third the length of leg AB, what is the length of AB?
+
+ANSWER: 6
+
+103
+Short Answer  A circle has a diameter of 20 and a minor arc whose interior angle is 90°.  In terms of π, what is the arc length?
+
+ANSWER: 5π
+
+104
+Multiple Choice  Which of the following is NOT true about statistical correlation: W)  correlation typically distinguishes between explanatory and response variables X)  the correlation “r” always lies between +1 and -1 Y)  a negative correlation indicates a negative association Z)  correlation is usually strongly affected by outlying observations
+
+ANSWER: W)  CORRELATION TYPICALLY DISTINGUISHES BETWEEN EXPLANATORY
+
+105
+Short Answer  What is the sine of the angle θ (pronounced: theta) whose terminal side passes through the points (4, -3)?
+
+ANSWER: -3/5  (ACCEPT:  -0.6)
+
+106
+Multiple Choice Which of the following trigonometric relationships is TRUE: W)  sine θ × cotangent θ = 1    (read θ as theta) X)  tangent θ × cotangent θ = 1 Y)  secant θ – cosine θ = 1 Z)  sine θ + cosecant θ = 1
+
+ANSWER: X)  TANGENT θ × COTANGENT θ = 1
+
+107
+Short Answer  Given the points, (0, 0) and (–4/5, 3/5), find the distance between them:
+
+ANSWER: 1  (ACCEPT:  1 )
+
+108
+Short Answer  Find sin 2θ (read as: sine 2 theta) given that tan θ (read as:  tangent theta) equals minus three-fourths and θ is in the second quadrant:
+
+ANSWER: –
+
+109
+Short Answer  The monthly revenue, in dollars, for sales of widgets is given by the equation R(q) = 8.5q – 0.02q2, where q is the number of widgets made per month.  The cost for creating the widgets is given by the equation, C(q) = 200 + 0.5q dollars.  A maximum of 400 widgets can be made in 1 month.  How many widgets should be made each month to maximize the profit, as given by the revenue minus the cost?
+
+ANSWER: 200
+
+110
+Short Answer  In 1931, who disproved that axioms of arithmetic were consistent and could sufficiently prove or disprove any mathematical conjecture?
+
+ANSWER: KURT GÖDEL  (ACCEPT:  GÖDEL)
+
+111
+Short Answer  Find the solution set of the following inequality:   x2 + 4x < 5
+
+ANSWER: -5 < x < 1
+
+112
+Short Answer  Giving your answer in the order of the 1st row followed by the 2nd row and in lowest common fraction form, find the inverse of the following 2-by-2 matrix:  (read 32−⎡⎢⎣1−⎤⎥2⎦as:  the 1st row contain the numbers 3 and -1 and the 2nd row contain the numbers -2 and 2)   (read as:  ½, ¼, ½, ¾ )  (must be in order) ⎡⎢⎢⎢⎣12121434⎤⎥⎥⎥⎦
+
+ANSWER: 
+
+113
+Short Answer  Assuming that x ≠ 0, solve the following equation for x:  3x2
+
+ANSWER: x = 7/24  (ACCEPT:  x = 70/240 OR 3.43)
+
+114
+Multiple Choice  Which of the following eccentricities describes a hyperbola: W)  e = 0 X)  0 < e < 1 Y)  e = 1 Z)  e > 1
+
+ANSWER: Z)  e > 1
+
+115
+Short Answer  Solve the following equation for y:
+
+ANSWER: y = 3
+
+116
+Multiple Choice  Which of the following is TRUE about tests of significance: W)  a type 1 error rejects the null hypothesis when it is true X)  a type 1 error accepts the null hypothesis when it is true Y)  a type 2 error rejects the null hypothesis when it is true Z)  a type 2 has no relationship to the null hypothesis
+
+ANSWER: W)  A TYPE 1 ERROR REJECTS THE NULL HYPOTHESIS WHEN IT IS TRUE
+
+117
+Short Answer  Calculate the following indefinite integral:  I = ∫(read as: the integral of the cosine of the sum of 2x + 2, dx)
+
+ANSWER: 
+
+118
+Short Answer  Solve the following equation for x:  – 3|x| = –15 (read as: minus 3 times the absolute value of x equals minus 15)
+
+ANSWER: 5 AND –5
+
+119
+Short Answer  If Emily can paint a fence in 4 hours but Kathy takes 6 hours, how many hours will it take them to paint the fence if they work together?
+
+ANSWER: 2
+
+120
+Short Answer  Solve the following inequality for x:  |(x + 5)| > –7  (read as: the absolute value of, open parenthesis, x + 5, close parenthesis, is greater than –7)
+
+ANSWER: ALL REAL NUMBERS  (ACCEPT:  + INFINITY TO –INFINITY)
+
+121
+Short Answer  What is the sum of the first 5 terms of the geometric sequence in which the first term is 2 and the common ratio is 2?
+
+ANSWER: 62
+
+122
+Short Answer  Find the positive geometric mean between the numbers 1 and 10,000:
+
+ANSWER: 100
+
+123
+Short Answer  What is the side of a square, in centimeters to the nearest whole number, given that its diagonal is 16 centimeters?
+
+ANSWER: 11
+
+124
+Short Answer  Solve the following equation for x:  –10 |(x + 2)| = –50  (read as: negative 10 times the absolute value of, open parenthesis, x + 2, close parenthesis, equals negative 50)
+
+ANSWER: 3 AND –7
+
+125
+Short Answer  What is the least common multiple of the following 4 numbers:   12, 15, 16, 20
+
+ANSWER: 240
+
+126
+Short Answer  In a Venn diagram, what is the most appropriate name of the rectangle that contains the circles that represent the subsets?
+
+ANSWER: UNIVERSAL SET
+
+127
+Short Answer  How many different letter arrangements are possible with the six letters in the word ‘SECOND’?
+
+ANSWER: 720
+
+128
+Multiple Choice  Which of the following numbers is evenly divisible by 4: W)  1,722 X)  2,636 Y)  4,114 Z)  6,126
+
+ANSWER: X)  2,636
+
+129
+Short Answer  Rounded to the nearest centimeter, if side A of a right triangle measures 2 centimeters and side B measures 10 centimeters, what is the length of the hypotenuse?
+
+ANSWER: 10
+
+130
+Short Answer  Boolean algebra involves ideas or subjects that have how many possible states?
+
+ANSWER: 2
+
+131
+Short Answer  Multiply the following, giving your answer in standard form and without negative exponents or radicals:
+
+ANSWER: 
+
+132
+Short Answer  Giving your answer in terms of pi, what is the area of a circle whose circumference is 20?
+
+ANSWER: 
+
+133
+Short Answer  Convert log base 4 of 53 into a base 10 expression:
+
+ANSWER: 
+
+134
+Short Answer  Consider a 6-sided irregular polygon whose perimeter is 100 centimeters.  If 4 of the sides have a length of 7 centimeters each, what is the length, in centimeters, of each of the remaining two sides if they are congruent?
+
+ANSWER: 36
+
+135
+Short Answer  Solve the following equation for x:   x2 – 20x + 19 = 0
+
+ANSWER: 19 AND 1
+
+136
+Short Answer  Express the following radical in its simplest radical form:  !
+
+ANSWER: 
+
+137
+Short Answer  If a 6-foot tall person who is standing next to a vertical pole casts a shadow of 8 feet and the pole casts a shadow of 40 feet, how many feet tall is the pole?
+
+ANSWER: 30
+
+138
+Short Answer  Remove all negative exponents and simplify the following expression for all non-zero values of x, y, and z:  2(2(zyx2zyx4)031!)5!3!!zyx5432
+
+ANSWER: 
+
+139
+Short Answer  What is the slope-intercept equation of the line that passes through the point (4, -1) and is parallel to the line with equation 2x – 3y = 9?
+
+ANSWER: y =
+
+140
+Multiple Choice  Which of the following is a prime polynomial over the integers: W)  5x2 – 8x + 2 X)  4x2 – 4x – 8 Y)  3x2 – 4x – 4 Z)  3x2 – 10x2 + 3x
+
+ANSWER: W)  5x2 – 8x + 2
+
+141
+Multiple Choice  Which of the following is NOT a regular polyhedron: W)  regular tetrahedron X)  cube Y)  regular icosahedron Z)  regular hexadecagon
+
+ANSWER: Z)  REGULAR HEXADECAGON
+
+142
+Short Answer  Solve the following logarithmic equation for x:  log4 x = 4  (read as: log base 4 of x equals 4)
+
+ANSWER: 256
+
+143
+Short Answer  Find the 9th term of the geometric sequence whose first 3 terms are 3, 6, and 12:
+
+ANSWER: 768
+
+144
+Short Answer  What is the domain and range for the function defined by the following set of three ordered pairs:  {(–2, 6), (0, 9), (3, 7)}
+
+ANSWER: DOMAIN = –2, 0, 3;  RANGE = 6, 9, 7
+
+145
+Short Answer  Find the number of sides in a regular polygon if each interior angle measures 176 degrees:
+
+ANSWER: 90
+
+146
+Short Answer  Giving your answer in simplest radical form, rationalize the denominator of the following expression:  1x−)3(
+
+ANSWER: 
+
+147
+Short Answer  Solve the following equation for x over the set of complex numbers, giving your answer in simplest form:  x2 – 10x + 34 = 0
+
+ANSWER: 5 ± 3i  (ACCEPT:  5 + 3i  AND 5 – 3i)
+
+148
+Short Answer  Consider a blue circle inscribed in a white square.  If the radius of the circle is 10 centimeters, what is the area of all visible white portions of the square, to the nearest whole number in centimeters squared?
+
+ANSWER: 86
+
+149
+Short Answer  If $1000 is placed in a savings account that pays 6% annual interest compounded semiannually, what is the total amount of money in the account at the end of 1 year, to the nearest dollar?
+
+ANSWER: $1061.00
+
+150
+Short Answer  Find the product of the following, giving your answer without negative exponents:  (x-2 + y)(x2 – y-2)
+
+ANSWER: 
+
+151
+Short Answer  A circle has a radius of 8 centimeters.  Find the central angle, in degrees, of a sector of a circle if its arc length is 2π centimeters:
+
+ANSWER: 45
+
+152
+Multiple Choice  Which of the following is closest to the radius of a sphere, in meters, given that its volume is 400 cubic meters: W)  2.15 X)  4.57 Y)  6.28 Z)  9.76
+
+ANSWER: X)  4.57
+
+153
+Multiple Choice  If a population distribution is illustrated as a symmetrical bell shape curve, then the median and the mean are: W)  not the same  X)  uncertain Y)  variable Z)  the same
+
+ANSWER: Z)  THE SAME
+
+154
+Multiple Choice  Which of the following has a graph that is a parabola that opens downward: W)  f(x) = 3x + 1 X)  f(x) = x2 – 2  Y)  f(x) = –x2  Z)  f(x) = x3
+
+ANSWER: Y)  f(x) = –x2
+
+155
+Short Answer  Find the 101st term in the arithmetic sequence whose first three terms are 5, 11, and 17:
+
+ANSWER: 605
+
+156
+Short Answer  If you roll 2 fair dice simultaneously, what is the probability, given as a fraction, that you will roll the number 6 on AT LEAST one die?
+
+ANSWER: 11/36
+
+157
+Multiple Choice  Which of the following are coterminal angles in standard position (read slowly): W)  550º and 185º X)  80° and –190° Y)  1160° and 800° Z)  181° and –118°
+
+ANSWER: Y)  1160° AND 800°
+
+158
+Short Answer  What function is the inverse of y = 3x + 4?
+
+ANSWER: y =
+
+159
+Short Answer  Giving your answer as an ordered pair, find the solution of the system of the following 2 equations:  2x + 3y = 8, and 3x – 2y = –1
+
+ANSWER: (1, 2)  (ACCEPT:  1 AND 2)
+
+160
+Short Answer  Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x < 360º:  2 sin  x – 1 = 0
+
+ANSWER: 30º AND 150º
+
+161
+Short Answer  Multiply the following complex numbers, giving your answer in standard form:  (2 + i 2 )(3 –  i 2 )
+
+ANSWER: 8 +  2 i  (ACCEPT:  8 + i 2 )
+
+162
+Short Answer  Given the function f(x) = x3 + 3x – k and f(3) = 31, solve for k:
+
+ANSWER: 5
+
+163
+Short Answer  Find the value of k that will result in a unique, real solution for the following equation:  kx2 + 10x + 25 = 0
+
+ANSWER: 1
+
+164
+Short Answer  Giving your answer as one, two, three, or four, in what quadrant will theta terminate if sine θ and secant θ are both negative?
+
+ANSWER: 3
+
+165
+Short Answer  Simplify the following trigonometric expression completely:  cos θ tan θ (read as: cosine theta tangent theta)
+
+ANSWER: sin θ
+
+166
+Short Answer  Solve the following trigonometric equation for x, giving your answer in radians such that 0 ≤ x < 2π:  sin2 x + sin x – 2 = 0
+
+ANSWER: 
+
+167
+Short Answer  Simplify the following trigonometric expression completely:  sec −θtanθcosθ
+
+ANSWER: sin θ
+
+168
+Short Answer  Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4:
+
+ANSWER: (x – 12)2 + (y – 7)2 = 16
+
+169
+Short Answer  Giving your answer as a circle, parabola, ellipse, or hyperbola, if a conic section has an eccentricity that is 0.333, what type is it?
+
+ANSWER: ELLIPSE
+
+170
+Multiple Choice  Which of the following is closest to the area of a triangle whose sides are a = 10, b = 12 and c = 18: W)  57 X)  81 Y)  90 Z)  108
+
+ANSWER: W)  57
+
+171
+Multiple Choice  Which of the following is NOT true: W)  a function’s graph may intersect one of its horizontal asymptotes X)  a function’s graph may intersect one of its vertical asymptotes  Y)  the identity function f(x) = x is its own inverse Z)  the function f(x) = −x is its own inverse
+
+ANSWER: X)  A FUNCTION’S GRAPH MAY INTERSECT ONE OF ITS VERTICAL
+
+172
+Short Answer  If the 1st term of an arithmetic sequence is 4 and the 20th term is 156, what are the first five terms in the sequence:
+
+ANSWER: 4, 12, 20, 28, 36
+
+173
+Short Answer  Giving your answer as up, down, left, or right, if a > 0, which way does the parabola given by the equation, x = –a(y – k)2 + h open:
+
+ANSWER: LEFT
+
+174
+Short Answer  Find the following indefinite integral:  !integral of 3 sine x + 5 cosine x, dx)
+
+ANSWER: –3 cos x + 5 sin x + C
+
+175
+Short Answer  Find the following indefinite integral:  ∫times e to the x power, dx)
+
+ANSWER: xex – ex + C
+
+176
+Short Answer  For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the triangle, to the nearest whole number:
+
+ANSWER: 17
+
+177
+Short Answer  Differentiate and simplify the following with respect to x:  y = (read as: natural log of x divided by x)
+
+ANSWER: 
+
+178
+Short Answer  What is the greatest common factor of the terms in the expression 3x5y2 + 6x3y5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?
+
+ANSWER: 
+
+179
+Short Answer  As a fraction in lowest terms, what is the probability of rolling 1 or 3 on a standard 6-sided die?
+
+ANSWER: 1/3
+
+180
+Short Answer  Given the equation 2x – y + 5 = 0, find the slope and y-intercept of the line it represents.
+
+ANSWER: SLOPE = 2; Y-INTERCEPT = 5 OR (0, 5)
+
+181
+Multiple Choice  If b is a negative vector of a given vector a, then how do b and a compare? W) a has a smaller magnitude than b X) b has a smaller magnitude than a Y) b has the same magnitude as a, applied in the opposite direction Z) b has a larger magnitude than a, applied in the opposite direction
+
+ANSWER: Y) B HAS THE SAME MAGNITUDE AS A, APPLIED IN THE OPPOSITE
+
+182
+Short Answer  If 8x3 – 4y = -16x, express y as a function of x in simplest form.
+
+ANSWER: y = 2x3 + 4x
+
+183
+Short Answer  Determine the slope of the line that has the equation:  y – 14 = 7 (x + 2) - 5.
+
+ANSWER: 7
+
+184
+Multiple Choice  Line 1 and line 2 are parallel. If line 1 contains the points (6, 13) and (4, 11) and line 2 contains the point (8, 20), determine which of the following points lies on line 2.   W) (12, 15) X) (18, 10) Y) (10, -12) Z) (14, 26)
+
+ANSWER: Z) (14, 26)
+
+185
+Short Answer  What type of growth does y = 36 the power of x) represent?
+
+ANSWER: EXPONENTIAL
+
+186
+Short Answer  When the discriminant of a quadratic function ax2 + bx + c = 0 is greater than 0, how many x intercepts does the graph have?
+
+ANSWER: 2
+
+187
+Short Answer  Give the numerical value for the number of different orders in which 7 people can line up at a cash register?
+
+ANSWER: 5,040
+
+188
+Short Answer  What is the fifth number in the geometric sequence that begins: 27, 9, 3, 1?
+
+ANSWER: 1/3
+
+189
+Short Answer  Evaluate y = 5x2 + 4x3 + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2.
+
+ANSWER: 0
+
+190
+Short Answer  What is the mode of the following list of nine numbers: 4, 4, 5, 6, 6, 7, 7, 7, 8?
+
+ANSWER: 7
+
+191
+Short Answer  Solve for x: 3x2 + 6x – 9 = 0
+
+ANSWER: x = -3, AND x = 1
+
+192
+Short Answer  You paid $300 for a new Seagull guitar. Your guitar cost $50 more than twice the cost of your friend’s guitar. How much was her guitar?
+
+ANSWER: $125
+
+193
+Short Answer  Change 120 degrees to radians in terms of π.
+
+ANSWER: 
+
+194
+Multiple Choice  Which of the following is NOT true about a convex polygon? W) Every line segment connecting two interior points lies in the interior X) Every line segment connecting two vertices remains inside or on the boundary of the polygon Y) At least one interior angle is greater than 180 degrees  Z) The number of edges is finite
+
+ANSWER: Y) AT LEAST ONE INTERIOR ANGLE IS GREATER THAN 180 DEGREES
+
+195
+Multiple choice  Psoriasis, a chronic skin disorder caused by the immune system, affects 1% to 2% of Caucasians. If there are 16,098,000 Caucasians in New York State, about how many would be expected to have psoriasis? W) Between 16,000 and 32,000 X) Between 160,000 and 325,000 Y) Between 1,600,000 and 3,220,000 Z) 241,470
+
+ANSWER: X) BETWEEN 160,000 AND 325,000
+
+196
+Short Answer  What is 224% of 17? Provide your answer as a decimal to the nearest integer.
+
+ANSWER: 38
+
+197
+Multiple Choice  If f(x) (read as: f of x) represents the function whose graph is the standard normal distribution curve, then how do the inflection points on the curve for 2f(x) (read as: 2 f of x) compare to those of f(x)? W) Both curves have the same inflection points X) The 2f(x) inflection points are twice as far apart but the same height Y) The 2f(x) inflection points are twice as high but the same distance apart Z) The 2f(x) inflection points are both twice as far apart and twice as high
+
+ANSWER: Y) THE 2F(X) INFLECTION POINTS ARE TWICE AS HIGH BUT THE SAME
+
+198
+Short Answer  Consider the polynomial 5x2 + 13x + 10. How many and what kind of roots does it have?
+
+ANSWER: TWO COMPLEX ROOTS
+
+199
+Multiple Choice  If 14 is a factor of the whole number x, which of the following also must be a factor of x? W) 4 X) 7 Y) 10 Z) 28
+
+ANSWER: X) 7
+
+200
+Short Answer  What is the point of intersection of these two lines: y = -2x + 3 and y = 3x - 7?
+
+ANSWER: (2, -1)
+
+201
+Multiple Choice  Which of the following numbers is relatively prime with 15?   W) 348 X) 350 Y) 352 Z) 354
+
+ANSWER: Y) 352
+
+202
+Short Answer  The chairs in a theater are numbered. Robert painted all of the chairs from #25 to #35, inclusive. How many chairs did he paint?
+
+ANSWER: 11
+
+203
+Short Answer  What is the greatest common factor of 120 and 165?
+
+ANSWER: 15
+
+204
+Short Answer  Using one exterior angle per vertex, what is the sum in degrees of the measures of the exterior angles of a convex dodecagon?
+
+ANSWER: 360
+
+205
+Short Answer  Where does the graph of
+
+ANSWER: 
+
+206
+Short Answer  Given the function
+
+ANSWER: 4
+
+207
+Short Answer  Where do the lines y = (2x/3) + 5 and 3y = 2x - 21 intersect?
+
+ANSWER: THEY DON’T (ACCEPT: THEY’RE PARALLEL, NULL SET, EMPTY SET)
+
+208
+Short Answer  Two triangles are similar. If the smaller one has a perimeter of 18 and the ratio between them is 5:3 (read as: 5 to 3), what is the perimeter of the larger triangle?
+
+ANSWER: 30
+
+209
+Multiple Choice  If x = 4 and y = 2, which of the following expressions is undefined? W) 3x + X) 2y + 4x Y) xy – x2 Z) x +
+
+ANSWER: W) 3x +
+
+210
+Multiple Choice  Which of the following functions is continuous at x = -1? W) X) Y) Z)
+
+ANSWER: Y)
+
+211
+Short Answer  The area of a square is 36 square centimeters. What is the length of its diagonal in centimeters in simplest radical form?
+
+ANSWER: 6
+
+212
+Multiple Choice  The radius of a bicycle tire is 10 inches. How far does the wheel travel in inches in 6 revolutions? W) 45 π  X) 60 π  Y) 90 π Z) 120 π
+
+ANSWER: Z) 120 π
+
+213
+Multiple Choice  If a train’s wheels have a diameter of 4 feet and turn at rate of π radians per second, how fast is the train moving in feet per second? W) 2  X) 4 Y) 2π  Z) 4π
+
+ANSWER: Y) 2π
+
+214
+Multiple Choice  Given two parallel lines in a plane, the set of points that lie in that plane and are equidistant from the given lines forms a: W) Point X) Segment perpendicular to the lines Y) Circle Z) Line
+
+ANSWER: Z) LINE
+
+215
+Multiple Choice  In a plane, the set of points equidistant from a point and a line form a: W) Ellipse X) Parabola Y) Triangle Z) Tip of a cone
+
+ANSWER: X) PARABOLA
+
+216
+Short Answer  The first row in a theatre contains 8 seats. Every other row contains 2 seats more than the one in front of it. How many people can sit in the first 6 rows?
+
+ANSWER: 78
+
+217
+Short Answer  Give the measure of angle and cos
+
+ANSWER: 
+
+218
+Short Answer  What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π2? Provide your answer in simplest form in terms of π.
+
+ANSWER: 2π+ π2/3 (ACCEPT:
+
+219
+Short Answer  What matrix of integers is equal to 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)
+
+ANSWER: 
+
+220
+Multiple Choice  The length of a rectangle is 5 inches less than twice the width. What is the width in inches if the perimeter is 38 inches? W) 5  X) 8  Y) 11  Z) 14
+
+ANSWER: X) 8
+
+221
+Short Answer  One side of an equilateral triangle is 6. In simplest form, what is the altitude?
+
+ANSWER: 3
+
+222
+Short Answer  If four numbers have an arithmetic mean of 20, and three of the numbers are 17, 18, and 19, what is the fourth number?
+
+ANSWER: 26
+
+223
+Short Answer  Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15
+
+ANSWER: 30
+
+224
+Short Answer  What matrix is the multiplicative inverse of the 2 by 2 matrix  (read as: row 1: 3, 1; row 2: 5, 2).
+
+ANSWER: 
+
+225
+Short Answer  A man who is 6 feet tall spots a bird at the top of a 14-foot telephone pole. If the angle of elevation from his eyes to the top of the pole is 30 degrees, then to the nearest foot, how far away is he standing from the base of the pole?
+
+ANSWER: 14
+
+226
+Short Answer  Solve for x in simplest form for
+
+ANSWER: 
+
+227
+Multiple Choice  A cylinder and a cone share the same radius and height. What is the ratio of the cylinder’s volume to the cone’s volume? W) 1:1 (read as: 1 to 1) X) 1.5:1 (read as: 1.5 to 1) Y) 2:1 (read as: 2 to 1) Z) 3:1 (read as: 3 to 1)
+
+ANSWER: Z) 3:1
+
+228
+Multiple Choice  A math teacher is trying to describe her favorite triangle. The lengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeter side is 12°. How many non-congruent triangles fit this description? W) 0 X) 1 Y) 2 Z) An infinite number
+
+ANSWER: Y) 2
+
+229
+Short Answer  A car drives 100 miles. For 20% of the time, the car drives at a constant speed of 45 miles per hour. For the remainder of the time, the car drives at a constant speed of 20 miles per hour. How many hours does the entire trip take? Round your answer to the nearest hour.
+
+ANSWER: 4
+
+230
+Multiple Choice  If f(x) = 2x – 1 and f(g(-2)) = 7 (read as: f of g of negative 2 equals 7), which of the following could be g(x)?   W) -x2 X) 2x Y) 2x2 Z) |4x + 4| (read as: the absolute value of 4x plus 4)
+
+ANSWER: Z) |4x + 4|
+
+231
+Multiple Choice  What transformation is represented by the multiplication of  by    (read as: the 2 by 1 matrix x, y by the 2 by 2 matrix row 1: 1, 0; row 2: 0, -1)? W) Reflection through the x–axis X) Reflection through the y–axis Y) Reflection through the line y = x Z) Reflection through the origin
+
+ANSWER: W) REFLECTION THROUGH THE X–AXIS
+
+232
+Short Answer  If 1543 is the nth term of the arithmetic sequence that begins -7, -2, 3, what is the value of n?
+
+ANSWER: 311
+
+233
+Multiple Choice  Which of the following equations describes a parabola that has a vertex at (-2,3)? W) y = -2(x + 2)2 - 3  X) y = -2(x + 2)2 + 3 Y) y = -2(x - 2)2 - 3 Z) y = -2(x – 2)2 + 3
+
+ANSWER: X) y = -2(x + 2)2 + 3
+
+234
+Short Answer  What is the equation for the axis of symmetry for the function f(x) = -x2 + 2x + 3?
+
+ANSWER: x = 1
+
+235
+Short Answer  What are the first three terms of the Taylor series for ex  at 0?
+
+ANSWER: 1, x, x2/2 (ACCEPT: 1, x/1!, x2/2!)
+
+236
+Short Answer  Express the complex number i8 in standard a + bi form equivalent.
+
+ANSWER: 1 (ACCEPT: 1 + 0i)
+
+237
+Short Answer  Solve the following equation for x:
+
+ANSWER: x = 25 (DO NOT ACCEPT: x = 9)
+
+238
+Multiple Choice  Which of the following intervals contains both solutions of x2 - 3x = 0? W) 0 less than x less than 2 X) 0 less than x less than 4 Y) 0 less than or equal to x less than 4 Z) -3 less than x less than or equal to 2
+
+ANSWER: Y) 0 less than or equal to x less than 4
+
+239
+Short Answer  Find the sum of every odd integer between 5 and 55, inclusive.
+
+ANSWER: 780
+
+240
+Multiple Choice  Which of the following numbers is not prime? W) 137 X) 143 Y) 167 Z) 229
+
+ANSWER: X) 143
+
+241
+Short Answer  If a random number R is a real number from the closed interval [0,1], then how many possible integer values could be generated by the expression 12R + 7?
+
+ANSWER: 13
+
+242
+Short Answer  If x is negative, simplify  square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis)
+
+ANSWER: -210x3
+
+243
+Multiple Choice  Which of the following equations does not have real solutions? W) -3x2 + 3 = 0 X) x2 – 5x + 2 = 0 Y) 4x2 – 3x – 0.25 = 0 Z) x2 – x + 1 = 0
+
+ANSWER: Z) x2 – x + 1 = 0
+
+244
+Short Answer  Given coordinates A (1,2), B (7,1), C (3,0), and D (4,6), find the angle in degrees between
+
+ANSWER: 
+
+245
+Multiple Choice  Which of the following numbers is not a Mersenne prime?   W) 7 X) 31 Y) 61 Z) 127
+
+ANSWER: Y) 61
+
+246
+Short Answer  If the determinant of a 2 by 2 matrix, denoted A, is equal to -2, what is the determinant of 2 times A?
+
+ANSWER: - 8
+
+247
+Multiple Choice  If the sine of an angle is 0.3, which of the following is a possible cosine of that angle? W) .09 X) .7 Y) Z)
+
+ANSWER: Z)
+
+248
+Short Answer  What is the derivative of sin(w) at w = 0?
+
+ANSWER: 1
+
+249
+Multiple Choice  In a parallelogram ABCD, the sides AB and DC can be represented by: W) Opposite vectors X) Two different vectors with the same direction Y) Two different vectors with the same magnitude Z) The same vector
+
+ANSWER: Z) THE SAME VECTOR
+
+250
+Short Answer  The number 360 has how many positive integer factors?
+
+ANSWER: 24
+
+251
+Short Answer  Express x) with a factorial.
+
+ANSWER: log n!
+
+252
+Multiple Choice  Which of the following functions is one-to-one?  W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) X) f(x) = x2 – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) Y) f(x) = 5x3 + 9 (read as: f of x equals 5 x cubed plus 9) Z) f(x) =
+
+ANSWER: Y) f(x) = 5x3 + 9
+
+253
+Short Answer  A triangle has sides of length 5, 7, and 8 meters.  In simplest form and in meters squared, what is the area of the triangle?
+
+ANSWER: 10
+
+254
+Short Answer  Find the derivative of 12x3 - 6x2 + 6 x squared plus 3 over x to the fifth minus 25)
+
+ANSWER: 36x2 –12x -
+
+255
+Multiple Choice   Which of the following is congruent to (n + 1) modulus n? W) 0  X) 1  Y) (n – 1)  Z) (n – 2)
+
+ANSWER: X) 1
+
+256
+Short Answer  A spherical balloon is being inflated at a constant rate of π cubic inches per second.  In inches per second, how fast is the radius increasing when the radius is 3 inches?
+
+ANSWER: 1/36
+
+257
+Multiple Choice  Which of the following has the largest amplitude? W) 9sin(x) - 2 X) 2cos(6x) + 5 Y) cos(2x) Z) 4sin(10x)
+
+ANSWER: W) 9 sin(x) - 2
+
+258
+Short Answer  What power of 10 is closest to 255?
+
+ANSWER: 1016  (ACCEPT: 16)
+
+259
+Multiple Choice  In the use of a statistical test, which of the following constitutes a Type I (read as: type one) error? W)  rejecting a true null hypothesis X)  accepting a false null hypothesis Y)  using a sample size that is too small for the test Z)  comparing samples that differ too much in size
+
+ANSWER: W)  REJECTING A TRUE NULL HYPOTHESIS
+
+260
+Short Answer  Find the polynomial with real coefficients, leading coefficient 1,  and least degree that has 2 + 3i as a zero.
+
+ANSWER: x2 – 4x +13
+
+261
+Short Answer  A particle moves so its position s in kilometers at time t in hours can be expressed as s(t) = 6t2 + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively?
+
+ANSWER: SPEED: 60, ACCELERATION: 12
+
+262
+Short Answer  What is cosine of 15° in simplified radical form?
+
+ANSWER: 
+
+263
+Multiple Choice  How many different ways are there to seat 4 people in a room that has 10 seats? W) 720 X) 3,240 Y) 5,040 Z) 151,200
+
+ANSWER: Y) 5,040
+
+264
+Short Answer  How many vertices and edges, respectively, does a regular icosahedron have?
+
+ANSWER: VERTICES = 12, EDGES = 30
+
+265
+Short Answer  If the median of the five numbers 1, 7, 14, 28, and x is 10, what is x?
+
+ANSWER: 10
+
+266
+Short Answer  Factor the following polynomial completely over the real numbers:  x3 + 3x2 – 5x – 15.
+
+ANSWER: (x + 3)(x + 5)(x - 5) (IN ANY ORDER)
+
+267
+Short Answer  For which real values of x does the following the series converge:   (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n ∞n=0xnn!factorial)?
+
+ANSWER: ALL REAL NUMBERS
+
+268
+Multiple Choice  Which of the following decreases when 5 is subtracted from each item of a data set? W) Standard deviation X) Range Y) Mean Z) Variance
+
+ANSWER: Y) MEAN
+
+269
+Short Answer  A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x.
+
+ANSWER: V=  x3   3
+
+270
+Short Answer  What is the circumference of the circle with equation                           (x + 3)2 + (y − 5)2 = 25 ?
+
+ANSWER: 10π
+
+271
+Short Answer  In degrees, what is the smallest angle x > 0 such that  sin(x) + cos(2x) = 1?
+
+ANSWER: 30°
+
+272
+Short Answer  The three vertices of a triangle have coordinates (4, 8), (−2, 5), and (3, 1). The longest side of the triangle is opposite which of these three vertices?
+
+ANSWER: (−2, 5)
+
+273
+Multiple Choice  Which of the following is an even function? W) Sine X) Cosine Y) Tangent Z) Cotangent
+
+ANSWER: X) COSINE
+
+274
+Short Answer  Let n be the number of faces of a regular polyhedron. What is the sum of all possible values of n?
+
+ANSWER: 50
+
+275
+Short Answer  Each side of a cube is white. Two sides are selected at random and painted green. What is the probability that two selected sides will have a common edge?
+
+ANSWER: 4/5
+
+276
+Multiple Choice  A line with the equation y = cx + c, where c is a non-zero real number, must intersect which of the following?  W) Positive x-axis X) Positive y-axis Y) Negative x-axis Z) Negative y-axis
+
+ANSWER: Y) NEGATIVE x-AXIS
+
+277
+Short Answer  What is the coefficient corresponding to x3 in the binomial expansion of (x + 2)5 (read as: the quantity x plus 2 to the power of 5)?
+
+ANSWER: 40
+
+278
+Multiple Choice  Which of the following statements is NOT true about Taylor series? W) Taylor series are defined for infinitely differentiable functions X) All Taylor series are power series Y) All Taylor series are convergent Z) The first n terms of a Taylor series approximate a function with a polynomial
+
+ANSWER: Y) ALL TAYLOR SERIES ARE CONVERGENT
+
+279
+Multiple Choice  Which of the following statements is NOT an advantage of a repeated-measures design compared to an independent-measures design to compare two treatment conditions? W) It requires fewer subjects  X) It is better suited to study development that takes place over time Y) It reduces problems caused by individual differences Z) It reduces the confounding effects of other factors
+
+ANSWER: Z) IT REDUCES THE CONFOUNDING EFFECTS OF OTHER FACTORS
+
+280
+Short Answer  The linear function y = f(x) contains the two points (2, 1) and (5, 8). In simplest form, what is f(13)?
+
+ANSWER: 80/3 (ACCEPT: 26 2/3)
+
+281
+Short Answer  A population has a mean of 73 and a standard deviation of 8. If the distribution is standardized to create a new distribution with a mean of 100 and a standard deviation of 20, what is the new value of a score of 65 from the original distribution?
+
+ANSWER: 80
+
+282
+Short Answer  What is the sum of the smallest prime number and the smallest composite number?
+
+ANSWER: 6
+
+283
+Short Answer  Providing your answer in decimal form, what is the area under the curve y = x between 0 and 3?
+
+ANSWER: 4.5
+
+284
+Short Answer  By number, identify which one of the following statements is TRUE regarding the set of means of samples of size n from a given population: 1) the mean of the set of sample means varies inversely as the square root of n; 2) the variance of the set of sample means varies directly as n; or 3) the standard deviation of the set of sample means varies inversely as the square root of n.
+
+ANSWER: 3
+
+285
+Multiple Choice  Which of the following can be constructed using only a compass and a straightedge? W) A line segment with one-third the length of a given line segment  X) A cube with twice the volume of a given cube Y) An angle with one-third the measure of a given angle  Z) A square with the same area as that of a given circle
+
+ANSWER: W) A LINE SEGMENT WITH ONE-THIRD THE LENGTH OF A GIVEN LINE
+
+286
+Multiple Choice  If the derivative of f(x) is positive on the closed interval [a, b], then which of the following statements is TRUE? W) f(x) is increasing on [a, b] X) f(x) has critical points at a and b Y) f(x) is constant on [a, b] Z) f(x) cannot have an inflection point on [a, b]
+
+ANSWER: W) f(x) IS INCREASING ON [a, b]
+
+287
+Short Answer  Providing your answer in simplest form, give the volume in terms of π of a solid generated by revolving the region bounded by the graph of y = ln(x) (read as: y equals the natural log of x), the x-axis, the lines x = 1, and x = e, about the y-axis.
+
+ANSWER: 1
+
+288
+Short Answer  Simplify i17 completely.
+
+ANSWER: i
+
+289
+Multiple Choice  Which of the following statements is TRUE? W) A correlation of +0.8 is stronger than a correlation of -0.8 X) A correlation of +0.8 is weaker than a correlation of -0.8 Y) A correlation of +0.8 is just as strong as a correlation of -0.8 Z) It is impossible to tell which correlation is stronger
+
+ANSWER: Y) A CORRELATION OF +0.8 IS JUST AS STRONG AS A CORRELATION OF -0.8
+
+290
+Short Answer  Find all values of c such that the given function is continuous from negative infinity to infinity: f(x) = c2x when x ≤ 2, and f(x) = (5/4)cx2 + 3 when x > 2.
+
+ANSWER: -½, 3
+
+291
+Multiple Choice  Which of the following is NOT true about the function y = |x| (read as: y equals the absolute value of x)? W) It is symmetric around the y-axis X) The derivative of the function does not exist at x = 0 Y) It is monotonic Z) The integral of the function over the real line is unbounded
+
+ANSWER: Y) IT IS MONOTONIC
+
+292
+Multiple Choice  Which of the following is NOT a property of the normal p.d.f.?   W) The p.d.f. is symmetric X) The p.d.f. has two inflection points Y) The variance has to be positive Z) The domain of the p.d.f. is non-negative real numbers
+
+ANSWER: Z) THE DOMAIN OF THE P.D.F. IS NON-NEGATIVE REAL NUMBERS
+
+293
+Short Answer  Find the following quotient of complex numbers:  (4 + i)/(1 – 2i).
+
+ANSWER: 2/5 + (9/5)i  (ACCEPT:  0.4 + 1.8i)
+
+294
+Short Answer  What is the inverse function of f(x) = x5 + 1 (read as: f of x equals x to the fifth plus 1)?
+
+ANSWER: f −
+
+295
+Short Answer  Given: u(4) = -2 and u’(4) = 3 (read as: u of 4 equals negative 2, and u prime of 4 equals 3). If f(x) = xu(x) (read as: f of x equals x u of x), then evaluate f’(4) (read as: f prime of 4).
+
+ANSWER: 10
+
+296
+Short Answer  Suppose the average score on a national test is 500, with a standard deviation of 100. If each score is increased by 25, what are the new mean and standard deviation, respectively?
+
+ANSWER: 525 AND 100
+
+297
+Short Answer  If the probability of event A is 0.25, the probability of event B is 0.5, and the probability of the union of A and B is 0.55, expressing your answer as a decimal to the nearest tenth, what is the probability of the intersection of A and B?
+
+ANSWER: 0.2
+
+298
+Multiple Choice  Which of the following is a function for which f(-x) = -f(x) (read as: f of negative x equals negative f of x)? W) sin(x)  X) x2 Y) cos(x) Z) ex
+
+ANSWER: W) sin(x)
+
+299
+Short Answer  How many real solutions does the equation x5 + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?
+
+ANSWER: 1
+
+300
+Multiple Choice  Which of the following statements is TRUE about confidence intervals for a sample mean? W) A 99% confidence interval is wider than a 95% confidence interval X) The 99% confidence interval is not symmetric Y) The 95% confidence interval can be interpreted as a 95% chance that the true mean is in the interval Z) The 95% confidence interval is symmetric around the true population mean
+
+ANSWER: W) A 99% CONFIDENCE INTERVAL IS WIDER THAN A 95% CONFIDENCE
+
+301
+Short Answer  What is the area of a triangle with side lengths of 10, 12, and 18, rounded to the nearest whole number?
+
+ANSWER: 57
+
+302
+Short Answer  Compute the summation from n = 1 to n = 180 of the cosine of n degrees.
+
+ANSWER: -1
+
+303
+Short Answer  What is the value of the infinite sum:  1factorial minus 1 over 3 factorial plus 1 over 4 factorial minus 1 over 5 factorial and so on)? 5! +… (read as: 1 over 2 3! + 12! - 14! - 1
+
+ANSWER: 1  e
+
+304
+Short Answer  Assuming that the probability of A is 0.3, the probability of B is 0.3, and the probability of A union B is 0.5, providing your answers as decimals to the nearest tenth, what are the probabilities, respectively, of A intersection B and the complement of the quantity A union B?
+
+ANSWER: 0.1 AND 0.5
+
+305
+Multiple Choice  The last two digits, in order, of a positive integer n are 1 and 8. Which of the following statements about n can be TRUE? W) n is divisible by 7 X)  n is divisible by 5 Y) n is divisible by 4 Z) n is a perfect square
+
+ANSWER: W) n IS DIVISIBLE BY 7
+
+306
+Short Answer  In simplest radical form, what is the radius of the circle tangent to the sides of an equilateral triangle with a side length of 2? Round 10   Page 10   3  3
+
+ANSWER: 
+
+307
+Short Answer  At what value of x is the tangent to the curve f(x) = 3x2 – 2x + 1  a horizontal line?
+
+ANSWER: 1/3
+
+308
+Short Answer  Providing your answer as an improper fraction in simplest form, what is the slope of the line tangent to the graph of  x2point with coordinates of (-1/8, 1/4)?
+
+ANSWER: -4/3
+
+309
+Short Answer  Approximate the area under f(x) = x2 + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals.
+
+ANSWER: 176
+
+310
+Short Answer  How many permutations consisting of four letters each, starting with the letter E, can be formed from the letters in the word ENERGY?
+
+ANSWER: 60
+
+311
+Multiple Choice  A polyhedron with seven faces, exactly five of which are rectangles, could be which of the following? W) Pentagonal prism X) Pentagonal pyramid Y) Hexagonal prism Z) Hexagonal pyramid
+
+ANSWER: W) PENTAGONAL PRISM
+
+312
+Short Answer  Providing your answer in radians with positive r and theta between 0 and 2π, change the point (4, -4) from rectangular form to simplest polar form.
+
+ANSWER: (4 2, 7π/4)
+
+313
+Multiple Choice  Which of the following statements BEST describes whether or not the magnitude of the standard deviation depends on the location of the center of the data? W) Yes, the larger the mean, the larger the standard deviation X) Yes, because you have to know the mean in order to calculate the standard deviation Y) No, standard deviation is not affected by the location of the center Z) No, standard deviation only measures how values differ from each other and not how they differ from the mean
+
+ANSWER: Y) NO, STANDARD DEVIATION IS NOT AFFECTED BY THE LOCATION OF THE
+
+314
+Short Answer  You find that your maximum error of estimate in determining a population proportion is ± 4%, based on your sample size. If you were to repeat the experiment with a sample four times as large, what would your maximum error of estimate be?
+
+ANSWER: 2%
+
+315
+Short Answer  How many positive integer divisors does 8640 have?
+
+ANSWER: 56
+
+316
+Multiple Choice  Populations P1 and P2 are normally distributed and have identical means; however, the standard deviation of P1 is twice the standard deviation of P2. Which of the following is TRUE about the percentage of observations falling within two standard deviations of the mean for each population? W) The percentage for P1 is twice the percentage for P2 X) The percentage for P1 is greater, but not twice as great, as the percentage for P2 Y) The percentage for P2 is twice the percentage for P1 Z) The percentages are identical
+
+ANSWER: Z) THE PERCENTAGES ARE IDENTICAL
+
+317
+Short Answer  Find the second derivative of the function f(x) = (3 + 2x)e−
+
+ANSWER: 3(6x + 5)e−
+
+318
+Short Answer  A rectangle has both a changing height and a changing width, but the height and width change so that the area of the rectangle is always 200 square feet. What is the rate of change of the width of the rectangle in feet per second when the height is 5 feet, if the height is decreasing at that moment at the rate of 0.5 feet per second?
+
+ANSWER: 4
+
+319
+Multiple Choice  Which of the following series converges? W) X) Y) Z)
+
+ANSWER: Y)
+
+320
+Short Answer  What is the limit of xx as x approaches 0 from the positive side?
+
+ANSWER: 1
+
+321
+Short Answer  Linear correlation coefficients must lie between what two values?
+
+ANSWER: -1 AND 1
+
+322
+Multiple Choice  Which of the following is NOT true? W) A rational function’s graph may intersect its horizontal asymptote X) A rational function’s graph may intersect one of its vertical asymptotes  Y) The function f(x) = -1/x is its own inverse Z) The function f(x) = -x is its own inverse
+
+ANSWER: X) A RATIONAL FUNCTION’S GRAPH MAY INTERSECT ONE OF ITS VERTICAL
+
+323
+Short Answer  What is the name of the point at which the three angle bisectors of a triangle intersect?
+
+ANSWER: INCENTER
+
+324
+Short Answer  Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet?
+
+ANSWER: 
+
+325
+Short Answer  What is the period of the function f(x) = sin((π/6) x + π/4) [f of x equals the sine of the quantity pi over 6 times x plus pi over 4]?
+
+ANSWER: 12
+
+326
+Short Answer  Providing your answer to one decimal place, find the value of the following fraction: 63!62!3! [the numerator is 63 factorial; the denominator is 62 factorial times 3
+
+ANSWER: 10.5
+
+327
+Short Answer  Mary travels for 110 miles averaging 55 miles per hour and for 150 miles averaging 50 miles per hour. What is Mary’s average speed in miles per hour for the trip?
+
+ANSWER: 14
+
+328
+Short Answer  The polynomial p(x) = x4 + 5x3 – 2x2 – 24x has a zero at x = 2. Factor p
+
+ANSWER: x(x – 2)(x + 3)(x + 4)
+
+329
+Short Answer  What is the surface area of a cube with volume 8?
+
+ANSWER: 24
+
+330
+Short Answer  For what values of x is the function f(x)= fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?
+
+ANSWER: 2
+
+331
+Multiple Choice  Which of the following inequalities has NO solutions? W) 7x + 4 > 3 X) |x – 1| > -10 [the absolute value of the quantity x minus 1 is greater than negative 10] Y) |x + 3| < -2 [the absolute value of the quantity x plus 3 is less than negative 2] Z) -100x + 5 ≥ 8
+
+ANSWER: Y) |x + 3| < -2
+
+332
+Multiple Choice  A certain radioactive element decays over time according to the equation 300], where R  equals the number of grams that were present initially and x equals time in years. If 1000 grams were present initially, how many grams will remain after 900 years?  [y equals R times one half to the power of the quantity x over W) 62.5 X) 125 Y) 250 Z) 500
+
+ANSWER: X) 125
+
+333
+Short Answer  After 40 times at bat, BJ has 9 hits. What is the least number of hits he would need in his next 30 times at bat so that he has hits in at least 31% of his total at-bats?
+
+ANSWER: 13
+
+334
+Multiple Choice  The lines y = (a – 5)x + 5 [ y equals open parentheses a minus 5 close parentheses x plus 5] and y = -2x + 7 are perpendicular if a equals which of the W) -2/9 X) 9/2 Y) 5 Z) 11/2
+
+ANSWER: Z) 11/2
+
+335
+Short Answer  What is the degree of the polynomial:  (x – 3)3 (x – 7)4 [open parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close parenthesis to the power of 4]?
+
+ANSWER: 7
+
+336
+Short Answer  Convert 420 degrees to radians as an improper fraction in terms of pi.
+
+ANSWER: 7 /3
+
+337
+Multiple Choice  A jar contains 50 marbles. Exactly 10% are green, 20% are blue, 30% are yellow, and the rest are orange. Which of the following is the probability of randomly picking first a blue marble, replacing it, and then picking an orange marble? W) 125 X) 225 Y) 325 Z) 425
+
+ANSWER: X) 225
+
+338
+Short Answer  What is the value of i4?
+
+ANSWER: 1
+
+339
+Multiple Choice  The hyperbola with equation following characteristics? W) It opens left and right and has asymptotes y =  x and y = X) It opens up and down and has asymptotes y =  x and y = Y) It opens left and right and has asymptotes y =   x and y = Z) It opens up and down and has asymptotes y =   x and y = x x x x = 1 possesses which of the
+
+ANSWER: X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y =  x AND y =
+
+340
+Short Answer  Given f(x) = x + 1 and g(x) = 3x, what is f(g(x)) [f of g of x]?
+
+ANSWER: 3x + 1
+
+341
+Multiple Choice  Which of the following is an identity? W) cos(2x) = 2 cos(x)[cosine of 2x equals 2 cosine of x] X) sin(2x) = 2 sin(x) cos(x) [sine of 2 x equals 2 sine of x cosine of x]  Y) cos(x + y) = cos(x) + cos(y) [cosine of the quantity x plus y equals cosine of x plus Z) sin(x - y) = sin(x) - sin(y) [sine of the quantity x minus y equals sine of x minus sine of y]
+
+ANSWER: X) sin(2x) = 2 sin(x) cos(x)
+
+342
+Short Answer  In the three by three matrix,  [such that row one  [x sub 2, 3] element? contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the
+
+ANSWER: 5
+
+343
+Short Answer  What is the multiplicity of the zero 1 in the polynomial  p(x) = x4 + x3
+
+ANSWER: 3
+
+344
+Multiple Choice  Which of the following points lies in the solution set for the system 20) MATH  Short Answer  In terms of a, b, c, and d, what is the slope of the line 3 x + 2by = cd?
+
+ANSWER: 3/2b
+
+345
+Short Answer  Evaluate the following: over t times e to the power of the natural log of t dt].
+
+ANSWER: 2
+
+346
+Short Answer  Expressing the answer in simplest form, solve absolute value of the quantity 2r minus 13 fourths is less than 5 halves].
+
+ANSWER: 3/8 < r <
+
+347
+Short Answer  Differentiate sin(cosx) [sine of cosine of x].
+
+ANSWER: -cos(cos x)sinx [ACCEPT: cos (cos x)(-sin x) or –sinx cos(cos(x)); DO NOT ACCEPT:
+
+348
+Multiple Choice  Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t? W) y = 100 + 2t [y equals 100 plus 2 to the power of t] X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t] Y) y = 2t [y equals 2 to the power of t] Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]
+
+ANSWER: X) y = 100(2t)
+
+349
+Short Answer  What is the remainder when BONUS
+
+ANSWER: -76
+
+350
+Multiple Choice  Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]? W) Sine of 7º X) Cosine of 41º Y) Sine of 41º Z) Tangent of 41º
+
+ANSWER: Y) SINE OF 41º
+
+351
+Short Answer  If f(x) = -2x - ex [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?
+
+ANSWER: (-∞, -2) (ACCEPT: x < -2 or THE OPEN INTERVAL FROM NEGATIVE INFINITY TO
+
+352
+Short Answer  If the radius of a spherical balloon is expanding at the rate of 5 inches per second, assuming the initial volume is 0 and providing your answer as an improper fraction in lowest terms, what is its volume in inches cubed in terms of π after 2 seconds?
+
+ANSWER: 4000π/3
+
+353
+Short Answer  What is the sum of the infinite geometric series with a first term of 1/3 and a second term of 1/9?
+
+ANSWER: 1/2 (ACCEPT: 0.5)
+
+354
+Short Answer  If the graph of y = (x – 2)2 – 3 [y equals open parenthesis x minus 2 close parenthesis squared minus three] is translated 5 units up and 2 units to the right, what
+
+ANSWER: (4, 2)
+
+355
+Short Answer  A square has a side of 8 millimeters. Providing your answer in terms of π and in square millimeters, what is the difference between the areas of its circumscribed circle and its inscribed circle?
+
+ANSWER: 16π
+
+356
+Short Answer  Find the measure in degrees of the largest angle of a triangle with sides of 24 centimeters, 7 centimeters, and 25 centimeters.
+
+ANSWER: 90°
+
+357
+Short Answer  A different universe has nine spatial dimensions. If an object travels four meters in all nine dimensions, then what is the object’s displacement in meters in this universe?
+
+ANSWER: 2
+
+358
+Short Answer  What is the determinant of the 2 by 2 matrix one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?
+
+ANSWER: -32
+
+359
+Multiple Choice  Given that a second degree polynomial function f(x) has a zero at  x = 3 with multiplicity 2, which of the following is true? W) The graph of f(x) crosses the y-axis at 3 X) As x approaches infinity, f(x) approaches infinity Y) The graph of f(x) crosses the x-axis at 3 Z) The graph of f(x) touches but does not cross the x-axis at 3
+
+ANSWER: Z) THE GRAPH OF f(x) TOUCHES BUT DOES NOT CROSS THE x-AXIS AT 3
+
+360
+Short Answer  Expressing your answer in simplest form, find the derivative with respect to x of y = minus 2] for all values for which y is defined.
+
+ANSWER: y’ = 2x + 2  (ACCEPT: 2x + 2)
+
+361
+Short Answer  If the height of a cone is equal to the diameter of its base, express the volume of the cone in terms of its radius r and as a fraction in terms of pi.
+
+ANSWER: (2/3) πr3         (ALSO ACCEPT::  2πr3/3)
+
+362
+Multiple Choice  Which of the following is the volume of the solid created by revolving the area bounded by semicircle open bracket 16 minus open parenthesis x minus 4 close parenthesis squared close brackets] and the x-axis around the x-axis?  [y equals the square root of W) 16π X) 64π/3 Y) 64π Z) 256π/3
+
+ANSWER: Z) 256π/3
+
+363
+Short Answer  Expressing your answer in simplest form, if y = (x6) ln(x) [y equals x to the sixth power times the natural log of x], what is the derivative of y with respect to x?
+
+ANSWER: 6x5 ln(x) + x5
+
+364
+Short Answer  Evaluate to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical form.
+
+ANSWER: 
+
+365
+Short Answer  Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers:  [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]. x2 + 6x + y2  8y  11= 0?
+
+ANSWER: 6
+
+366
+Multiple Choice  Which of the following values for a and b provide a counterexample to the statement “If 4 divides a + b, then 4 divides a or 4 divides b.” W) a = 5 and b = 7 X) a = 5 and b = 6 Y) a = 4 and b = 8 Z) a = 4 and b = 6
+
+ANSWER: W) a = 5 AND b = 7
+
+367
+Multiple Choice Which of the following relations does NOT represent a function? W) {(2, 3), (-4, 3), (7, 3)} X) {(0, 0), (-1, -1), (2, 2)} Y) {(2, 3), (-5, 3), (2, 7)} Z) {(-1, 3), (-5, 3), (-9, 0)}
+
+ANSWER: Y) {(2, 3), (-5, 3), (2, 7)}
+
+368
+Short Answer What is the derivative with respect to x of xe2 [x times e squared]?
+
+ANSWER: e2
+
+369
+Multiple Choice If the line y = 2 is reflected over the y-axis, what is the equation of the W) x = -2 X) y = -2 Y) x= 2 Z) y = 2
+
+ANSWER: Z) y = 2
+
+370
+Short Answer Find the nonzero value of k that will result in exactly one real solution 24) EARTH AND SPACE Multiple Choice Which of the following is NOT a feature produced by wave erosion? W) Sea cave  X) Sea stack  Y) Sea arch  Z) Shoal
+
+ANSWER: Z) SHOAL
+
+371
+Short Answer What is the probability that at least one head appears in 4 tosses of a fair coin?
+
+ANSWER: 15/16 (ACCEPT: 0.9375)
+
+372
+Multiple Choice What is the general solution to the differential equation: dy/dx = 2x + 1 [dy dx equals 2x plus 1]? W) y = x2 + x + c X) y = ½ x2 + c Y) y = 2 + c Z) y = 2x + c
+
+ANSWER: W) y = x2 + x + c
+
+373
+Multiple Choice What is the derivative of y = (3x + 1)2 [y equals 3x plus 1 quantity W) 18x + 6 X) 18x  Y) 6x + 1 Z) 6x + 2
+
+ANSWER: W) 18x + 6
+
+374
+Short Answer Four consecutive odd integers are added. If the smallest integer is  2m – 1, then what is their sum in terms of m?
+
+ANSWER: 8m + 8
+
+375
+Multiple Choice If an arc of 60° on circle 1 has the same length as an arc of 45° on circle 2, what is the ratio of the area of circle 1 to the area of circle 2? W) 16:9 X) 9:16 Y) 4:3 Z) 3:4
+
+ANSWER: X) 9:16
+
+376
+Multiple Choice A tourist begins a city stroll at an intersection. He walks north one block and then flips a coin. If the coin shows heads, he turns right; if it is tails, he turns left. In all, he walks a total of four blocks, flipping the coin at each corner to decide which way to turn. What is the probability that he ends at the starting point? W) 1/8 X) 1/4  Y) 1/3 Z) 1/2
+
+ANSWER: X) 1/4
+
+377
+Multiple Choice A student must enroll in 5 classes. She must take English, either Sociology or Economics, and either Chemistry, Biology, or Geology. For the other two courses, six offerings are available. How many different schedule selections are possible? W) 36 X) 90 Y) 180 Z) 360
+
+ANSWER: X) 90
+
+378
+Multiple Choice A balloon is being filled with water. Its volume in gallons is given by the function V(r) = r3/10 [V of r equals r cubed over 10], where r is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches? W) 0.3 X) 0.7 Y) 0.8 Z) 1.2
+
+ANSWER: X) 0.7
+
+379
+Short Answer A card is drawn at random from a standard deck of 52 cards. Given that the card drawn is a face card, what is the probability that the drawn card is a Jack?
+
+ANSWER: 1/3
+
+380
+Short Answer A line in parametric mode is given by the equations: x = 12t + 2  and y = 2t. What is the slope of this line?
+
+ANSWER: 4
+
+381
+Short Answer A cube painted red on all sides has an edge length of 4 inches. If the cube is then cut into 64 cubes of edge length 1 inch, how many of the 1 inch cubes have exactly one face painted red?
+
+ANSWER: 24
+
+382
+Multiple Choice The price of an item is discounted by 10% and then the new price is further discounted by 20%. What single discount is equivalent to this double discount?  W) 15% X) 28% Y) 30% Z) 72%
+
+ANSWER: X) 28%
+
+383
+Multiple Choice In the mid-state football conference, each team plays every other team exactly once during a calendar year. If a total of 45 conference games were played in 2012, how many teams were in the conference? W) 8 X) 9 Y) 10 Z) 11
+
+ANSWER: Y) 10
+
+384
+Short Answer Given 𝑓(𝑥)=√2−𝑥 [f of x equals the square root of the quantity 2 minus x], for what value or values of x does f(x+2) = 1 [f of the quantity x plus 2 equals 1]?
+
+ANSWER: x = -1
+
+385
+Short Answer Given that t ≠ 0, find 𝑓( 1𝑡 ) if f (t ) = 1𝑡.
+
+ANSWER: t
+
+386
+Short Answer What are the coordinates of the points of intersection of the graphs of 6) EARTH AND SPACE Short Answer What is the hottest layer of the Sun's atmosphere?
+
+ANSWER: CORONA
+
+387
+Short Answer The probability that a doctor is correct when making a diagnosis is 0.8. If the doctor makes an incorrect diagnosis, the probability that a patient sues is 0.3. What is the probability that the doctor makes an incorrect diagnosis and the patient sues?
+
+ANSWER: 0.06 (ACCEPT: 3/50 or 6%)
+
+388
+Short Answer Given that 𝑓(𝑑)= 2𝑥𝑥−1 [f of x equals the fraction with numerator 2x and denominator x minus 1] is a one-to-one function, find x so that f -1(x) = 5 [f inverse of x equals 5].
+
+ANSWER: 5/2 (ACCEPT: 2.5 OR 2 1/2)
+
+389
+Multiple Choice A positive three digit integer n is chosen at random, with each three digit number having an equal chance of being chosen. What is the probability that log2n [log base 2 of n] is an integer? W) 3/899 X) 1/300 Y) 1/222 Z) 1/150
+
+ANSWER: X) 1/300
+
+390
+Multiple Choice Given 𝑓(𝑥)=√7𝑥2−3 [f of x equals the square root of the quantity 7 x squared minus 3], which of the following are u(x) and g(u) such that  f(x) = g(u(x)) [f of x equals g of u of x]? W) u(x) = 7x2 − 2T3T3 and 𝑔(𝑢)=√𝑢 X) u(x) = √𝑥 and g(u) = 7u2 −2T3T 3  Y) u(x) = √7𝑥2−3 [u of x equals the square root of the quantity 7 x squared minus 3] and 𝑔(𝑢)=√𝑢  Z) u(x) = √7𝑥−3  and g(u) = 𝑢2
+
+ANSWER: W) u(x) = 7x2 −2T3T 3 AND 𝑔(𝑢)=√𝑢
+
+391
+Short Answer Mother Goose divided her estate among her four favorite friends according to the following specifications: •  Humpty Dumpty shall receive half of the estate, less $9000; •  Simple Simon shall receive one third of the estate, less $3000; •  Little Jack Horner shall receive exactly one fourth of the estate; •  Little Miss Muffet shall receive one sixth of the estate, plus $3000. What was the total dollar value of Mother Goose’s estate?
+
+ANSWER: $36,000
+
+392
+Multiple Choice If X and Y are bounded sets, then which of the following is true? W) Both the union and the intersection of sets X and Y are bounded X) Both the union and the intersection of sets X and Y are unbounded Y) The union of sets X and Y is bounded and the intersection of sets X and Y is unbounded Z) The union of sets X and Y is unbounded and the intersection of sets X and Y is bounded
+
+ANSWER: W) BOTH THE UNION AND THE INTERSECTION OF SETS X AND Y ARE
+
+393
+Short Answer If each interior angle of a polygon is 14 times the size of each exterior angle, what is the sum in degrees of the interior angles of this polygon?
+
+ANSWER: 5040°
+
+394
+Multiple Choice In how many ways can a committee of 7 be seated along one side of a table if the chair of the committee must sit in the middle? W) 49 X) 120 Y) 720 Z) 5040
+
+ANSWER: Y) 720
+
+395
+Short Answer How many three-digit numbers can be made using digits 0 through 4, provided the first digit is not zero?
+
+ANSWER: 100
+
+396
+Short Answer What is the area of a square inscribed in a circle of radius k?
+
+ANSWER: 2k2
+
+397
+Short Answer Starting with point (4, 2) in the coordinate plane, reflect it across the x-axis, then rotate it 180o around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?
+
+ANSWER: (-4, 4)
+
+398
+Short Answer If z1 = 4 + 3i and z2 = i3, find the product of z1, z2, and the conjugate of z1.
+
+ANSWER: -25 i
+
+399
+Short Answer What is the area of a rhombus with diagonals of lengths 6 and 8?
+
+ANSWER: 24
+
+400
+Short Answer A point rotates around a circle at the rate of 40° per second. Convert this to revolutions per minute.
+
+ANSWER: 203   (ACCEPT: 6 2/3)
+
+401
+Short Answer Evaluate sin15° [sine of 15 degrees].
+
+ANSWER: √64−√24  (ACCEPT: √6−√24
+
+402
+Multiple Choice How many two digit positive integers have at least one 6 as a digit? W) 17 X) 18 Y) 19 Z) 20
+
+ANSWER: X) 18
+
+403
+Short Answer Solve the following base-10 logarithmic equation for x:  log(x2 + 3x) + log(5x) = 1 + log(2x) [log base 10 of open parenthesis x squared plus 3x close parenthesis plus log base 10 of 5x equals 1 plus log base 10 of 2x].
+
+ANSWER: 1 (DO NOT ACCEPT: -4)
+
+404
+Short Answer A horse is enclosed in a square field of side 100 meters. The horse eats grass along the outside edges of the field, forming a border of uniform width inside the field. If the area of the border is 9/25 of the area of the field, what is the width in meters of the inside edge of the border?
+
+ANSWER: 80
+
+405
+Short Answer How many integers between 1 and 1000 inclusive are NOT divisible by either 2 or 5?
+
+ANSWER: 400
+
+406
+Short Answer If a family has four children, what is the probability of having exactly 3 girls?
+
+ANSWER: ¼ (ACCEPT: 0.25 OR 25%)
+
+407
+Short Answer Let a = 0.845454545… be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?
+
+ANSWER: 17
+
+408
+Short Answer Let 𝑦=𝑒𝑥2[e to the power of x squared]. Find dy/dx.
+
+ANSWER: 2𝑥𝑒𝑥2
+
+409
+Short Answer How many distinct permutations can be made from the letters in the word INFINITY?
+
+ANSWER: 3360
+
+410
+Short Answer Given 𝑔(𝑥)=1−cos(𝑥)𝑥2minus cosine of x and denominator x squared], find lim𝑥→0𝑔(𝑥) [the limit as x approaches  [g of x equals the fraction with numerator 1 0 of g of x].
+
+ANSWER: 1/2
+
+411
+Short Answer A store has been buying a certain type of calculator at $25 and selling them at $40. At this price, they have been selling 50 calculators per month. The owner of the store wishes to increase the price of the calculator and estimates that for each $1 increase in price, 3 fewer calculators will be sold each month. Determine the price, to the nearest dollar, that maximizes profit.
+
+ANSWER: $41
+
+412
+Short Answer Given 𝑓(𝑥)=𝑙𝑙√𝑒𝑥 [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x.
+
+ANSWER: 1/2
+
+413
+Short Answer Providing your answer in slope intercept form, what is the equation of the line tangent to the graph of 𝑦=𝑒2𝑥𝑥2  [y equals the fraction with numerator e to the power of 2x and denominator x squared] where x = 1?
+
+ANSWER: y = e2 (ACCEPT: y = 0x + e2)
+
+414
+Short Answer Given 𝑔(𝑥)=5+ 𝑥2sin (𝑥2) [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim𝑥→0𝑔(𝑥) [the limit as x approaches zero of g of x].
+
+ANSWER: 6
+
+415
+Short Answer A circle of radius 2 is centered at the point (2, 3). What is the slope of the line tangent to the circle at the point where x = 3 and y is greater than 3?
+
+ANSWER: −√33  (DO NOT ACCEPT: −1√3)
+
+416
+Short Answer What are the equations of all asymptotes -- vertical, horizontal, or 𝑥−1  [f of x equals the fraction with numerator BONUS oblique -- for the graph of the function 𝑓(𝑥)=𝑥2−3𝑥
+
+ANSWER: x = 1, y = x - 2
+
+417
+Short Answer What is the slope-intercept form of the equation of the line  that is tangent to the circle with equation x2 + y2 = 25 at the point (-3, 4)?
+
+ANSWER: y = (¾)x + 25/4
+
+418
+Short Answer Find h(t) if 2h'(t) - h(t) = 0 [2h prime of t minus h of t equals zero] and h(0) = 10.
+
+ANSWER: h(t) = 10 e(1/2)t  (ACCEPT: 10 e(1/2)t )
+
+419
+Multiple Choice Box A contains 4 chips numbered 1 through 4 and Box B contains 5 chips numbered 1 through 5. A chip is drawn from each box and the product of the two values drawn is denoted by x. What is the probability that x is even? W) 1/2 X) 2/3 Y) 7/10 Z) 3/4
+
+ANSWER: Y) 7/10
+
+420
+Multiple Choice The points on a scatter plot are extremely close to their least-squares regression line, which is expressed by the equation y = -2x + 3. The correlation coefficient r between x and y is closest to which of the following? W) -2 X) -1 Y) 1/2 Z) 1
+
+ANSWER: X) -1
+
+421
+Multiple Choice The line determined by points (0, 2b) and (2a, 0) intersects the line determined by points (0, b) and (a, b). What represents the x-value of the point where the two X) 2a lines intersect? W) a  Y) a + b Z) b/a
+
+ANSWER: W) a
+
+422
+Multiple Choice Which of the following equations represents two intersecting lines? W) x2 + y2 = 9 X) x2 – y2 = 9 Y) x2 + 4y2 = 1 Z) x2 – y2 = 0
+
+ANSWER: Z) x2 – y2 = 0
+
+423
+Multiple Choice Which of the following is a first order non-linear ordinary differential equation?  W) y' + y = 0 [y prime plus y equals zero] X) y'’ - 2y2 - 2 = 0 [y double prime minus 2y squared minus 2 equals zero] Y) y' - xy = 0 [y prime minus xy equals zero] Z) y' - 2y2 - 2 = 0 [y prime minus 2y squared minus two equals zero]
+
+ANSWER: Z) y' - 2y2 - 2 = 0
+
+424
+Short Answer There is a well-shuffled deck of 52 cards containing 13 cards each of spades, clubs, diamonds, and hearts. You draw 2 cards without replacement. What is the probability that both cards are diamonds?
+
+ANSWER: 1/17
+
+425
+Short Answer If the radius of a right circular cylinder is tripled, by what factor must the height be multiplied in order to keep the volume the same?
+
+ANSWER: 1/9
+
+426
+Multiple Choice If a number eight times as large as x is increased by two, then one fourth of the result equals W) 2x + 1/2 [2x plus half] X) x + 1/2 [x plus half] Y) 2x + 2 [2x plus 2] Z) 2x + 4 [2x plus 4]
+
+ANSWER: W) 2x + 1/2
+
+427
+Short Answer Subtracting a certain positive number from its square gives 110. Find the number.
+
+ANSWER: 11
+
+428
+Short Answer If the radius of a sphere is doubled, by what percent does the volume increase?
+
+ANSWER: 700 % (DO NOT ACCEPT: 800%)
+
+429
+Short Answer Determine all of the prime factors of 111.
+
+ANSWER: 3 AND 37
+
+430
+Multiple Choice How many faces does a cuboctahedron [kyoo-bok-tuh-HEE-druhn] have? W) 8 X) 14  Y) 24 Z) 48
+
+ANSWER: X) 14
+
+431
+Multiple Choice Which of the following pizzas has the greatest area on its top? W) A rectangular pizza, 18” by 12” [ eighteen inches by twelve inches] X) A square pizza, 15” by 15” [fifteen inches by fifteen inches] Y) A circular pizza with a 14” diameter [fourteen inch diameter] Z) A circular pizza with an 8” radius [eight inch radius]
+
+ANSWER: X) A SQUARE PIZZA, 15” BY 15”
+
+432
+Multiple Choice A man buys candies for x cents per dozen and sells them for x over 9 cents per candy. If he buys the candies for $1.08 per dozen, what is his profit per candy, in cents? W) 1 cent X) 3 cents Y) 8 cents Z) 12 cents
+
+ANSWER: X) 3 CENTS
+
+433
+Short Answer Simplify the following fraction for values of x for which it is defined: (cid:2874)(cid:3051)(cid:3118)(cid:2878)(cid:2872)(cid:3051)(cid:2879)(cid:2870)(cid:2872)(cid:3051)(cid:2879)(cid:2869)(cid:2870)(cid:3051)(cid:3118)  [the fraction with numerator six x squared plus four x minus two and
+
+ANSWER: (cid:3398)(cid:3051)(cid:2878)(cid:2869)(cid:2870)(cid:3051)
+
+434
+Short Answer Consider two sets, A and B, that show a correlation coefficient R equal to 0.6. If all the members of set A are multiplied by 3 and all members of set B are reduced by 2, what is the new value of R?
+
+ANSWER: 0.6 (ACCEPT: IT STAYS THE SAME)
+
+435
+Short Answer You have a sample of 30 values that correspond to the amounts of money you spent on gas in each of 30 months. You notice that the highest value was mistakenly recorded with an extra zero, but after correcting it, it remains the highest value. Identify all of the following four values that change after the correction:  1. Mean, 2. Median, 3. Interquartile Range, 4. Range.
+
+ANSWER: 1, 4 (ACCEPT: MEAN AND RANGE)
+
+436
+Multiple Choice If it takes you 50 minutes to walk uphill 2 miles to school but only 30 minutes to walk back, which of the following is your average speed, in miles per hour, for the round trip? W) 3 X) 3.5 Y) 4 Z) 4.5
+
+ANSWER: W) 3
+
+437
+Short Answer If a1 = 3 [a sub one equals three] and an = 5 + 2an-1 [a sub n equals five plus two a sub quantity n minus 1] for all integers n greater than 1, what is the value of a3 [a sub three]?
+
+ANSWER: 27
+
+438
+Multiple Choice Which of the following statements is true for the radius r, height h, and volume V of a right circular cylinder? W) If both r and h are doubled, V is doubled X) If r is increased by 2, V is increased by 4 Y) If r is doubled and h is halved, V is quadrupled Z) If r is doubled and h is divided by 4, V remains the same
+
+ANSWER: Z) IF r IS DOUBLED AND h IS DIVIDED BY 4, V REMAINS THE SAME
+
+439
+Multiple Choice If f(x) [f of x]is a twice differentiable function where for all real numbers f’(x) [f prime of x]is less than 0 and f’’(x) [f double prime of x] is less than 0, with  f(4) = 12 [f of four equals twelve] and f(5) = 9 [f of five equals nine], which of the following is a possible value for f(6) [f of six]? W) 3 X) 6 Y) 9 Z) 12
+
+ANSWER: W) 3
+
+440
+Short Answer In statistical testing, what term describes the default position, that there is no relationship between the two measured phenomena?
+
+ANSWER: NULL HYPOTHESIS
+
+441
+Short Answer If 1/x3 – 1/x2 – 1/x – 1 = 0 [one over x cubed minus one over x squared minus one over x minus one equals zero], then find the value of x3 + x2 + x + 1 [x cubed plus x squared plus x plus one]
+
+ANSWER: 2
+
+442
+Short Answer A band releases an album with 14 songs.  In how many ways can they select a different song to release as a single each month for three consecutive months?
+
+ANSWER: 2184
+
+443
+Multiple Choice In the expansion of (2x – y)5 [two x minus y quantity raised to the fifth power], what is the coefficient of the x3y2 [x cubed y squared] term? W) -80 X) -8 Y) 8 Z) 80
+
+ANSWER: Z) 80
+
+444
+Multiple Choice What theorem guarantees the existence of at least one complex root for any non-constant single-variable polynomial with real coefficients? W) Fundamental Theorem of Arithmetic X) Fundamental Theorem of Polynomials  Y) Zero-Factor Theorem Z) Fundamental Theorem of Algebra
+
+ANSWER: Z) FUNDAMENTAL THEOREM OF ALGEBRA
+
+445
+Short Answer Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the 2nd marble?
+
+ANSWER: 1/10 (ACCEPT: 0.1 or 10%)
+
+446
+Short Answer While sitting in his car at a train crossing, a driver decided to time how long it took for a 1-mile long train to pass him directly.  If it took exactly 75 seconds for the train to pass, at how many miles per hour was the train traveling?
+
+ANSWER: 48
+
+447
+Multiple Choice What is the product of the mean, median, and mode of the following set of data: {1, 1, 2, 3, 5, 8, 13} W) 9 X) 33/7 Y) 99/7 Z) 33 Answer: Y) 99/7 _______________________________________________________ TOSS-UP  22) CHEMISTRY Multiple Choice Identify the statement that does NOT describe a prostaglandin [pros-tuh-LAN-din] lipid function. W) Prostaglandins are involved in the inflammatory response process X) Prostaglandins play a role in blood clot formation but not clot reduction Y) Prostaglandins can induce labor contractions Z) Prostaglandins can help to increase kidney blood flow
+
+ANSWER: X) PROSTAGLANDINS PLAY A ROLE IN BLOOD CLOT FORMATION BUT NOT
+
+448
+Short Answer A ladder is standing vertically against a wall. Suddenly, the bottom of the ladder slides 6 feet away from the wall, which causes the top of the ladder to slide 2 feet down the wall. How tall is the ladder in feet?
+
+ANSWER: 10
+
+449
+Multiple Choice Which of the following is true for a nonzero matrix in reduced row echelon [ESH-uh-lon] form? W) All elements are zero  X) The first non-zero element is equal to -1 Y) There are no leading 0’s Z) There is a leading 1
+
+ANSWER: Z) THERE IS A LEADING 1
+
+450
+Short Answer If the line tangent to the graph of the function f(x) [f of x] at the point (1, 3) passes through the point (-2, -6), then what is the value of the derivative of f(x) when x = 1?
+
+ANSWER: 3
+
+451
+Multiple Choice Which of the following points lies inside the circle defined by the equation x2 + y2 = 25 [x squared plus y squared equals twenty-five]? W) (3, 4)  X) (4, -3)  Y) (cid:4666)4,2√2) [four, two times the square root of two] Z) (cid:4666)4,3	√2) [four, three times the square root of two]
+
+ANSWER: Y) (cid:4666)4,2√2)
+
+452
+Short Answer If one side of a right triangle is 14 inches and the opposite angle is 30 degrees, what is the diameter of the circle circumscribed around this triangle?
+
+ANSWER: 28
+
+453
+Short Answer Consider a single elimination basketball tournament in which 100 teams enter. In the first round, 28 teams are given a bye and the remaining teams are paired off to play. After each round, the remaining teams are paired off in the next round. How many matches are played in the first 3 rounds?
+
+ANSWER: 84
+
+454
+Multiple Choice If a2 – 2ab + b2 = x, [A squared minus two A B plus B squared equals x] where a is an odd integer and b is an even integer, which of the following MUST be true about x? W) x is a prime number X) x is divisible by 3 Y) x is an even perfect square Z) x is an odd perfect square
+
+ANSWER: Z) x IS AN ODD PERFECT SQUARE
+
+455
+Short Answer. Determine lim(cid:3051)→(cid:2868)(cid:3051)(cid:2878)(cid:2869)(cid:3051) . [the limit as x approaches zero of quantity x plus one divided by x]
+
+ANSWER: THE LIMIT DOES NOT EXIST (ACCEPT: NON-EXISTANT; DO NOT ACCEPT:
+
+456
+Short Answer A car leaves its original location traveling due west at a speed of 60 miles per hour and arrives at its destination in 3 hours. Later that day, the car returns to its original location. At what speed, in miles per hour, did it travel to cover the same distance in 2 hours?
+
+ANSWER: 90 MILES PER HOUR
+
+457
+Multiple Choice Which of the following best describes the system of linear equations:  y – 2x = - 2, y + x = 4 [y minus two x equals negative two and y plus x equals four]?   W) Consistent, Dependent  X) Consistent, Independent  Y) Inconsistent, Dependent  Z) Inconsistent, Independent
+
+ANSWER: X) CONSISTENT, INDEPENDENT
+
+458
+Short Answer How many points of intersection do the lines 2x – 3y = 5 and x = 1.5y + 2 [two x minus three y equals five and x equals one point five y plus two] have?
+
+ANSWER: ZERO
+
+459
+Short Answer A basketball player makes 6 baskets during a game, each worth 2 or 3 points. How many different possible values exist for the total points scored by the player?
+
+ANSWER: SEVEN
+
+460
+Short Answer What is the name of the type of curve that is formed when a piece of rope is hung between two points?
+
+ANSWER: CATENARY CURVE (ACCEPT: FUNICULAR)
+
+461
+Short Answer What is the absolute value of the difference between the arithmetic mean and the positive geometric mean of the numbers 1 and 25?
+
+ANSWER: 8
+
+462
+Short Answer Set (cid:1843) contains all positive integers that are the differences of squares of consecutive prime numbers. What is the smallest element of (cid:1843) that is greater than or equal to 10? 9) MATH Short Answer If the line y = (cid:2869)(cid:2870)x + 5 [y equals half x plus five] is rotated 270 degrees
+
+ANSWER: 16
+
+463
+Short Answer The value of a2 – 2b2 + c2 [a squared minus two b squared plus c squared], where a, b, and c are consecutive odd integers in increasing order, is a constant.  What is it?
+
+ANSWER: 8
+
+464
+Multiple Choice If the equation x2 – 2Kx + 9 = 0 [x squared minus two K x plus nine equals zero] has two equal roots, which of the following is a possible value of K? W) -3  X) -1 Y) 2 Z) 4
+
+ANSWER: W) -3
+
+465
+Short Answer Consider the number 144 written in base x, where x is a positive integer. Indicate all of the following three values for x where 144 base x is a perfect square: 5, 8, 12.
+
+ANSWER: 5, 8,12 (ACCEPT: ALL OF THEM)
+
+466
+Multiple Choice Which of the following functions has the greatest number of discontinuities? W) (cid:2871)(cid:3051)(cid:2878)(cid:2873)(cid:3051)(cid:2879)(cid:2872)  [quantity three x plus five, divided by quantity x minus 4] X)(cid:4666) (cid:2869)(cid:4666)(cid:3051)(cid:2879)(cid:2869)(cid:4667)(cid:4667)(cid:3397)(cid:1876) [ open parenthesis one, divided by quantity x minus 1, close parenthesis, Y) (cid:2869)(cid:3051)(cid:3118) [one divided by x squared] Z)  (cid:2869)(cid:3051)(cid:3118)(cid:2879)(cid:2869) [one, divided by quantity x squared minus one]
+
+ANSWER: Z)  (cid:2869)(cid:3051)(cid:3118)(cid:2879)(cid:2869)
+
+467
+Short Answer What is the sum of the numbers of faces of each of the unique Platonic solids?
+
+ANSWER: 50
+
+468
+Short Answer If it takes you 20 seconds to solve a math problem and your friend 30 seconds to solve a math problem, how many can the two of you solve in 6 minutes?
+
+ANSWER: 30
+
+469
+Short Answer What is the two-digit square number with the largest sum of its own digits?
+
+ANSWER: 49
+
+470
+Short Answer How many ways are there to get exactly 25 heads results from 26 consecutive fair coin tosses?
+
+ANSWER: 26
+
+471
+Multiple Choice If A and B are integers, consider the 2 by 2 matrix with first row 2, A and second row B, 3. For how many different values of A can the matrix be singular? W) 2 X) 4 Y) 8 Z) 10
+
+ANSWER: Y) 8
+
+472
+Short Answer What is the absolute value of the difference between the sum of the first 2014 even counting numbers and the first 2014 odd counting numbers?
+
+ANSWER: 2014
+
+473
+Multiple Choice In order to find the average size of families in a particular town, a surveyor took a simple random sample of individuals and asked each of them how many people were in his or her family. Which of the following is TRUE regarding the surveyor’s findings? W) The surveyor’s calculated average will likely be greater than the actual average X) The surveyor’s calculated average will likely be less than the actual average Y) The surveyor’s calculated average will likely be equal to the actual average Z) It is equally likely that the surveyor’s calculated average will be less than or greater than the actual average
+
+ANSWER: W) THE SURVEYOR’S CALCULATED AVERAGE WILL LIKELY BE GREATER
+
+474
+Multiple Choice In 2014, January 1st fell on a Wednesday. What is the next year that January 1st will fall on a Wednesday? W) 2015 X) 2019 Y) 2020 Z) 2025
+
+ANSWER: Y) 2020
+
+475
+Short Answer What is the smallest positive integer that can be added to 2500 to get a perfect square?
+
+ANSWER: 101
+
+476
+Multiple Choice Which of the following statements is TRUE? W) (cid:3398)7 is not a prime number X) 	(cid:1857)(cid:3036)(cid:3095)(cid:3404)(cid:3398)(cid:1857)(cid:2879)(cid:3036)(cid:3095) [e to the power of quantity I times pi equals negative e to the power of Z) There is no number (cid:1853) such that log(cid:4666)(cid:3398)(cid:1853)(cid:4667)	[log of negative a] exists.
+
+ANSWER: W) (cid:3398)7 IS NOT A PRIME NUMBER
+
+477
+Multiple Choice While eating out, you and your friend both tip the server 2 dollars. Your tip is 10% of your bill, while your friend’s is 20%. What is the difference, in dollars, between your bills? W) 2 X) 4 Y) 5 Z) 10
+
+ANSWER: Z) 10
+
+478
+Short Answer What is the smallest positive number other than 3 that, when divided by 4, 5, 6, or 7, has a remainder of 3?
+
+ANSWER: 423
+
+479
+Short Answer Identify all of the following three logical conclusions that follow from the statement “all A are B”: 1) All B are A; 2) If C is A, then C is also B; 3) If C is not A, then C is not B.
+
+ANSWER: 2 ONLY (ACCEPT: IF C IS A, THEN C IS ALSO B)
+
+480
+Short Answer What is the maximum possible number of intersection points of a circle and a square?
+
+ANSWER: EIGHT
+
+481
+Multiple Choice The tangent line to the graph y = e2 – x [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes.  What is the area of the triangle formed by this tangent line and the coordinate axes? W) 2e  X) e2 – 1 [e squared minus one] Y) e2 [e squared] Z) 4e [four e]
+
+ANSWER: W) 2e
+
+482
+Short Answer Indicate all of the following three possible values for c so that the equation 2x2 – 3x + c = 0 [two x squared minus three x plus c equals zero] has roots that are irrational: -1, -2, -3.
+
+ANSWER: -1 AND -3
+
+483
+Short Answer What is the lateral surface area of a right circular cone with radius 5 and height 12?
+
+ANSWER: 65π
+
+484
+Short Answer There are 50 people in a room: 28 are male and 32 are in college. Twelve are males in college. How many women who are not in college are in the room?
+
+ANSWER: 2
+
+485
+Short Answer The first term in a sequence is 2014, and each successive term is the sum of the cubes of the digits of the term immediately preceding it. What is the 100th term?
+
+ANSWER: 370
+
+486
+Multiple Choice Which of the following is correct about the symmetry of even functions? W) They are symmetric about the y-axis  X) They are symmetric about the x-axis Y) They are symmetric about the origin Z) They do not necessarily have symmetry
+
+ANSWER: W) THEY ARE SYMMETRIC ABOUT THE y-AXIS
+
+487
+Short Answer Under what arithmetic operation is the set of even integers NOT closed?
+
+ANSWER: DIVISION
+
+488
+Multiple Choice Two spheres with radii [RAY-dee-y]of 2 and 8 are resting on a tabletop so that they are touching. How far apart are their points of contact on the table? W) 2 X) 4 Y) 8 Z) 9
+
+ANSWER: Y) 8
+
+489
+Short Answer You are given that xy = 6 and x2y + xy2 + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three].  Calculate: x2 + y2 [x squared plus y squared].
+
+ANSWER: 69
+
+490
+Short Answer Two planes are orthogonal to each other. How many lines exist that are a given fixed distance d from both of these planes?
+
+ANSWER: FOUR
+
+491
+– Short Answer    Where is the derivative of the function f(x) = 2x2 + 5x – 3 equal to zero? Answer: AT x = -5/4 (ALSO ACCEPT x = -1.25 OR -1¼) 3) Math – Short Answer    If the line tangent to the graph of the function f(x) at the point (1, 3) passes through the point (-1.5, -2), then what is value of the derivative of f(x) when x = 1?
+
+ANSWER: 2
+
+492
+– Short Answer    Assuming x is a value for which the denominator is defined, simplify the fraction with numerator 6x2 + 4x – 2 and denominator 12x2 – 4x.
+
+ANSWER: (x +1)/(2x)
+
+493
+– Short Answer    If f(x) equals the cube root of open parenthesis x + 8 close parenthesis, what is f inverse of 6?
+
+ANSWER: 208
+
+494
+– Short Answer    While waiting at a train crossing, Gayle decided to time how long it took for a 1-mile long train to pass her directly.  If it took exactly 75 seconds for the train to pass, at how many miles per hour was the train traveling?
+
+ANSWER: 48
+
+495
+– Multiple Choice    What is the inverse function of y = 1 over open parenthesis x + 3 close parenthesis? W) y = open parenthesis 1 – 3x close parenthesis divided by x X) y = x – 3 Y) y = 3 – 1/x Z) y = 3x – 1 Answer: W) y = OPEN PARENTHESIS 1 – 3x CLOSE PARENTHESIS DIVIDED BY x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2) Physics – Short Answer    What is the equivalent capacitance in microfarads of four capacitors C1= 3 microfarads, C2= 5 microfarads, C3= 6 microfarads, and C4= 8 microfarads that are connected in parallel?
+
+ANSWER: 22
+
+496
+– Short Answer    Identify all of the following four operations that are NOT closed over the set of all positive real numbers: 1) addition; 2) subtraction; 3) multiplication; 4) division. Answer: 2  7) Math – Multiple Choice    Which of the following ratios represents the ratio of the diagonal of a cube to a diagonal of one of the faces of cube?  W) 2 to the square root of 3 X) the square root of 3 to the square root of 2 Y) the square root of 3 to 1 Z) the square root of 6 to the square root of 3
+
+ANSWER: X) THE SQUARE ROOT OF 3 TO THE SQUARE ROOT OF 2
+
+497
+– Short Answer    For real numbers a and b, define the binary operation “star” by a “star” b is equal to open parenthesis a + b close parenthesis times open parenthesis a – b close parenthesis. What is 3 “star” open parenthesis 4 “star” 5 close parenthesis?
+
+ANSWER: -72
+
+498
+– Short Answer    Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the 2nd marble is selected?
+
+ANSWER: 1/10 (ACCEPT: 0.1 OR 10%)
+
+499
+– Multiple Choice    Molly picks 4 coins out of her purse. Which of the following cannot be the total value, in cents, of the four coins? W) 15  X) 16  Y) 25  Z) 45
+
+ANSWER: W) 15
+
+500
+– Short Answer    A band produces an album with 14 songs.  The band picks one of these songs to be released in April, a different one to be released in May, and a different one to be released in June. In how many different ways can this be done?
+
+ANSWER: 2184
+
+501
+– Multiple Choice    If star is a binary operation on a subset of the real numbers, for which of the following definitions is star commutative? W) a star b = a – b X) a star b = a/b Y) a star b = the fraction with numerator a + b and denominator a times b Z) a star b = a2 – b2
+
+ANSWER: Y) a star b = THE FRACTION WITH NUMERATOR a + b AND DENOMINATOR a TIMES b
+
+502
+– Multiple Choice    Consider the following two statements: 1) If A and B, then C; 2) Not C. Which of the following conclusions follows from these statements?  W) Not A and not B X) Not A or not B Y) If A, then C Z) If not C, then not B
+
+ANSWER: X) NOT A OR NOT B
+
+503
+– Short Answer    At his latest basketball game, LeBron attempted only 3-pointers and 2-pointers. He was successful on 20% of his 3 pointers and 30% of his 2-pointers. If LeBron attempted 30 shots, how many points did he score?
+
+ANSWER: 18
+
+504
+– Short Answer    Let f(x) = x2 + ex and g(x) = 1/x2.  Determine g prime of f prime of zero.
+
+ANSWER: -2
+
+505
+– Short Answer    Evaluate the following expression: –i 25.
+
+ANSWER: -i
+
+506
+– Short Answer    A wire, 36 centimeters long, is bent into the shape of a regular hexagon. What is the area of the hexagon in square centimeters? Answer: 54 times the square root of 3 Round 4A     Page 1 TOSS-UP 3) Energy – Multiple Choice    The cost of generating electricity has many different components. Fuel, maintenance, and transmission are examples of which of the following costs? W) Variable  X) Fixed  Y) Environmental Z) Corporate
+
+ANSWER: W) VARIABLE
+
+507
+– Multiple Choice    Consider a basketball tournament in which 100 teams enter. In the first round, 28 teams are given a bye and the remaining teams are paired off to play. After each round, the remaining teams are paired off in the next round. How many matches are played in the first 3 rounds? W) 84 X) 88 Y) 92  Z) 99
+
+ANSWER: W) 84
+
+508
+– Short Answer    Determine all of the prime factors of 111. Answer: 3 and 37 BONUS 16) Math – Short Answer    In a collection of red, blue, and green marbles, there are 25% more red marbles than blue marbles, and there are 60% more green marbles than red marbles.  Suppose that there are 50 red marbles.  What is the total number of marbles in the collection?
+
+ANSWER: 170
+
+509
+– Short Answer    Consider the set of all positive integers that are the differences of the squares of two positive integers. What is the least element of the set?
+
+ANSWER: 3
+
+510
+– Short Answer    If x/2 = y2 and x/4 = 4y, what is the largest possible value of x?
+
+ANSWER: 128
+
+511
+– Multiple Choice    How many two digit positive integers have at least one 5 as a digit? W) 16 X) 17 Y) 18 Z) 19
+
+ANSWER: Y) 18
+
+512
+– Short Answer    What is the greatest common divisor of 132 and 6432?
+
+ANSWER: 12
+
+513
+– Short Answer    If a 52 foot-long wire is bent to form a square, what is the length of the square’s diagonal? Answer: 13 times the square root of 2  3) Math – Short Answer    Robert is asked by his teacher to subtract 3 from a number and divide the result by 9. Instead, he subtracts 9 and then divides the result by 3, giving him 43. What is the correct answer to the teacher’s question?
+
+ANSWER: 15
+
+514
+– Short Answer    Identify all of the following three numbers that are evenly divisible by eight:   1) 1,256,424;  2) 1,216;  3) 662,322.
+
+ANSWER: 1, 2
+
+515
+– Short Answer    A basketball player makes 6 baskets during a game, each worth 2 or 3 points. How many different possible values exist for the total points scored by the player?
+
+ANSWER: 7
+
+516
+– Short Answer    How many positive integral factors exist for 1800?
+
+ANSWER: 36
+
+517
+– Multiple Choice    Which of the following is NOT equal to a × log base b of c?  W) 1/a × log base b of the fraction a/c X) –a × log base b of  the fraction 1/c Y) –log base b of  open parenthesis c-a close parenthesis Z) Natural log of (ea) × log base b of c
+
+ANSWER: W) 1/a × log BASE b OF THE FRACTION a/c
+
+518
+– Multiple Choice    It takes 3 painters 4 hours to paint one house. How many hours does it take one painter to paint two houses of the same size?  W) 12 X) 24 Y) 36 Z) 48
+
+ANSWER: X) 24
+
+519
+– Multiple Choice    The average value of a continuous function f(x) on a closed interval from 2 to 6 is 8.  What is the value of the definite integral from 2 to 6 of f(x) dx? W)  4 X)  8 Y)  24 Z)  32
+
+ANSWER: Z) 32
+
+520
+– Short Answer    f(x) is a twice differentiable function where f prime of x is less than 0 and f double prime of x is less than 0 for all real numbers. If f(4) = 12 and f(5) = 9, what is the largest possible integer value for f(6)?
+
+ANSWER: 5
+
+521
+– Short Answer    For the equation y = 15 + 45 times log base 10 of open parenthesis 10x close parenthesis, where x is the number of years after 2000, find the value of y in 2010.
+
+ANSWER: y = 105
+
+522
+– Short Answer    How many faces does a regular icosahedron have?
+
+ANSWER: 20
+
+523
+– Short Answer    You have a sample of 30 values that correspond to the amount of money you spent on gas each month. You notice that the highest value was mistakenly recorded with an extra zero, but after correcting it, it remains the highest value. Identify all of the following three values that change after the correction: 1) Mean; 2) Median; 3) Range
+
+ANSWER: 1, 3
+
+524
+– Multiple Choice    What type of conic section is represented by the following equation:  0 = x2 + 2x – y2 + 6y – 14? W) ellipse X) circle Y) hyperbola Z) parabola Answer: Y) HYPERBOLA  BONUS TOSS-UP 9) Math – Short Answer    If the equations 2x + 8 = 4 and ax – 30 = -22 both have the same solution for x, what is the value of a?
+
+ANSWER: -4
+
+525
+– Multiple Choice    A continuous function f has domain the closed interval from 1 to 25 and range the closed interval from 3 to 30.  If f prime of x is less than 0 for all x in the closed interval from 1 to 25, what is f(25)? W) 1 X) 3 Y) 25 Z) 30
+
+ANSWER: X) 3
+
+526
+– Multiple Choice    The two legs of a right triangle have lengths of 6 and 2 times the square root of 3. How long is the altitude to the hypotenuse? W) 2 X) 3 Y) 4 Z) 5
+
+ANSWER: X) 3
+
+527
+– Short Answer    Determine all values in the closed interval from zero to 2 times the square root of 3 that are prescribed by Rolle’s [Rolls] Theorem for f(x) = x3 – 12x.
+
+ANSWER: 2
+
+528
+– Multiple Choice    How many values of x satisfy the equation x – 2 equals the fraction with numerator 2x2 – 8x and denominator x2 – 4x?  W) Zero X) One Y) Two Z) Three
+
+ANSWER: W) ZERO
+
+529
+– Multiple Choice    Which of the following functions will have its nth derivative equal to 0 over its entire domain for sufficiently large values of n? W) f(x) = x100 + sin x X) f(x) = x – x–1 Y) f(x) = x1001 + x1000 + … + x2 + x Z) f(x) = ln x – x2
+
+ANSWER: Y) f(x) = x1001 + x1000 + … + x2 + x
+
+530
+– Multiple Choice    The values of y that will satisfy the system of equations 2x2 + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations?  W) y2 + 14y – 7 = 0  X) y2 + 10y – 7 = 0 Y) y2 + 8y + 1 = 0 Z) y2 + y – 12 = 0
+
+ANSWER: X) y2 + 10y – 7 = 0
+
+531
+– Short Answer    What is the sum of the digits of the square of 111,111,111?
+
+ANSWER: 81
+
+532
+– Multiple Choice    Divide a unit segment into 3 congruent segments and remove the middle segment.  Do this process a second time on each of the remaining two segments.  If this process is carried out a total of n times, what is the sum of the lengths of the remaining segments?  W) One-third to the nth power  X) One minus one-third to the nth power  Y) Two-thirds to the nth power  Z) One minus two-thirds to the nth power
+
+ANSWER: Y)  TWO-THIRDS TO THE nth POWER
+
+533
+– Short Answer    If a1 = 4 and an = 2an-1 + 5, what is the value of a4?
+
+ANSWER: 67
+
+534
+– Multiple Choice    Which of the following best describes the following system of two linear equations: y – 2x = - 2, y + x = 4?   W) Consistent, Dependent  X) Inconsistent, Independent  Y) Consistent, Independent Z) Inconsistent, Dependent
+
+ANSWER: Y) CONSISTENT, INDEPENDENT
+
+535
+– Multiple Choice    Telesha and Chrissy each have a bag that contains one ball of each of the colors blue, green, red, purple, and pink. If Telesha takes one ball at random out of her bag and places it in Chrissy’s bag and then Chrissy takes one ball at random out of her bag and places it in Telesha’s bag, what is the probability that the two bags have the same contents? W) 1/10 X) 1/6 Y) 1/5  Z) 1/3
+
+ANSWER: Z) 1/3
+
+536
+– Short Answer    What is the limit as x approaches zero of the fraction with numerator x + 1 and denominator x?
+
+ANSWER: DOES NOT EXIST (ACCEPT: DNE, NON-EXISTANT; DO NOT ACCEPT: INFINITY,
+
+537
+– Short Answer    Simplify the fraction with numerator 3 raised to the 2k + 1 power and denominator 243 raised to the negative k power.
+
+ANSWER: 3 raised to the (7k + 1) power
+
+538
+– Short Answer    Classify the roots of the equation 2x2 – 4x – 3 = 0 as imaginary, rational, or irrational.
+
+ANSWER: IRRATIONAL
+
+539
+– Short Answer    If the radius of a right circular cylinder is doubled, by what factor must the height be multiplied in order to keep the volume the same?
+
+ANSWER: ¼
+
+540
+– Short Answer    A Diophantine equation is a polynomial equation in two or more variables such that the solutions are what type of number?
+
+ANSWER: INTEGERS
+
+541
+– Short Answer    Evaluate the following definite integral: the integral from x = -3 to 0 of the square root of open parenthesis 9 – x2 close parenthesis dx.
+
+ANSWER: (9π)/4    (ACCEPT: 2.25π)
+
+542
+– Short Answer    If the difference between two prime numbers is 11, what is their sum?
+
+ANSWER: 15
+
+543
+– Multiple Choice    What transformation occurs in going from the graph of f(x) = 0.5x2 + x to the graph of g(x) = 0.5x2 – x?  W) Horizontal shift right by 1 unit X) Horizontal shift left by 1 unit Y) Horizontal shift right by 2 units Z) Horizontal shift left by 2 units
+
+ANSWER: Y) HORIZONTAL SHIFT RIGHT BY 2 UNITS
+
+544
+– Multiple Choice    Set q contains all irrational numbers r such that 0 < r < 1. Which of the following is true about q? W) It is an empty set X) It has a countably infinite number of elements Y) It has an uncountably infinite number of elements Z) It has a nonzero finite number of elements
+
+ANSWER: Y) IT HAS AN UNCOUNTABLY INFINITE NUMBER OF ELEMENTS
+
+545
+– Multiple Choice    Consider a criminal trial in which the defendant is innocent until proven guilty. If the jury accepts the null hypothesis when the defendant is innocent, which of the following has occurred? W) The jury made the right decision X) The jury committed a type I error Y) The jury committed a type II error Z) The jury committed a type III error
+
+ANSWER: W) THE JURY MADE THE RIGHT DECISION
+
+546
+– Short Answer    Consider two lists of numbers, A and B, each with mean 10, that have a correlation coefficient r equal to 0.5. If all members of A are multiplied by 4 and all members of B are reduced by 7, what is the value of r for the two new lists?
+
+ANSWER: 0.5 (ACCEPT: IT STAYS THE SAME)
+
+547
+– Short Answer    Simplify cosine open parenthesis x + π/3 close parenthesis + sine open parenthesis x + π/6 close parenthesis.
+
+ANSWER: cos x
+
+548
+– Short Answer    If f(x) equals the fraction with numerator 1 and denominator open parenthesis 2x – 1 close parenthesis cubed,  which of the following is the numerator in the expression for the derivative of f with respect to x: W) -6  X) -3  Y) 1  Z) 2
+
+ANSWER: W) -6
+
+549
+– Short Answer    Evaluate the limit as x approaches 1 of x raised to the fraction with numerator 1 and denominator x – 1.
+
+ANSWER: e
+
+550
+– Short Answer    If A is an acute angle and sin A times cos A = 60/169, find the numerical value of sin A + cos A.
+
+ANSWER: 17/13
+
+551
+– Short Answer    A circular cone-shaped reservoir holds 3 gallons of water. How many gallons does a circular cylindrical reservoir hold if it has the same base and height as the conical reservoir?
+
+ANSWER: 9
+
+552
+– Multiple Choice    Which of the following is never TRUE?  W) Absolute value of a plus absolute value of b equals absolute value of open parenthesis a + b close parenthesis X) Absolute value of open parenthesis a + 1000 close parenthesis is less than absolute value of a  Y) Negative absolute value of a equals absolute value of a Z) Absolute value of open parenthesis a – b close parenthesis is less than absolute value of a minus absolute value of b
+
+ANSWER: Z) ABSOLUTE VALUE OF OPEN PARENTHESIS a – b CLOSE PARENTHESIS IS LESS
+
+553
+– Short Answer    The product of three positive consecutive odd integers is 7 times their sum.  Find the smallest of the three integers.
+
+ANSWER: 3
+
+554
+– Multiple Choice    The derivative of sine-cubed of 2 theta with respect to theta is equal to which of the following? W) Cosine-cubed of 2 theta X) 3 sine-squared of 2 theta Y) 6 sine-squared of 2 theta cosine of 2 theta Z) 6 cosine-cubed of 2 theta sine-squared of 2 theta
+
+ANSWER: Y) 6 sine-squared of 2 theta cosine of 2 theta
+
+555
+– Short Answer    What is the limit as x approaches 0 of the fraction with numerator 2x – 1 and denominator ex - 1?
+
+ANSWER: ln 2
+
+556
+– Short Answer    What is the integer part of the log base 3 of 2015?
+
+ANSWER: 6
+
+557
+– Short Answer    Convert 291 in base 10 to base 6.
+
+ANSWER: 1203
+
+558
+– Short Answer    What is the smallest positive angle, in degree measure, between the vectors i + 2j + 3k and 2i – 3j - k?
+
+ANSWER: 120
+
+559
+– Short Answer    What is the tens digit in the sum from n = 6 to 2015 of n factorial?
+
+ANSWER: 6
+
+560
+– Short Answer    What is the minimum distance between the graph of y = x + 1 and the origin?
+
+ANSWER: SQUARE ROOT OF 2 OVER 2
+
+561
+– Multiple Choice    Consider the graph of the function 4x2 – 4y2 = 0. Which of the following shapes most resembles the graph of this function? W) Circle X) Hyperbola Y) Pair of intersecting straight lines Z) Ellipse Answer: Y) PAIR OF INTERSECTING STRAIGHT LINES BONUS 1) Math – Multiple Choice    If x + y = 1 and x minus y equals the product of the square root of 2 and the sine of theta, what is x times y? W) Cosine of 2 theta X) Sine of 2 theta  Y) One-fourth the cosine of 2 theta Z) One-fourth the sine of 2 theta
+
+ANSWER: Y) ONE-FOURTH THE COSINE OF 2 THETA
+
+562
+– Short Answer     How many different sequences of 26 coin tosses result in at least 25 ‘heads’?
+
+ANSWER: 27
+
+563
+– Short Answer    The Seven Bridges of Konigsberg was a historically notable problem in graph theory and topology that was resolved by what mathematician?
+
+ANSWER: LEONHARD EULER
+
+564
+–  Short Answer    Evaluate the following expression: open parenthesis negative cosine 360 degrees + sine 270 degrees close parenthesis times open parenthesis cosine 0 degrees + sine 0 degrees close parenthesis squared.
+
+ANSWER: –2
+
+565
+–  Short Answer    There are 8 siblings in a family, and when ranked from youngest to oldest, all differ from the next oldest in age by the same number of years. If the youngest is 8 and the oldest is 29, what is the common difference in their ages?
+
+ANSWER: 3
+
+566
+–  Multiple Choice    Following are four pairs of intersecting lines that are related to circles. For three of them, the measures of the angles formed can always be found by taking half of the difference of the angle measures of the intercepted arcs. For which does this calculation generally fail? W) Two tangents X) Two secants that intersect outside the circle Y) A tangent and a secant that intersect outside the circle Z) The lines containing two intersecting chords
+
+ANSWER: Z) THE LINES CONTAINING TWO INTERSECTING CHORDS
+
+567
+–  Short Answer    What are the critical numbers for the function y = 3t3 – t?
+
+ANSWER: 1/3, –1/3 (ACCEPT: ±1/3)
+
+568
+–  Multiple Choice    Each day, Adam eats 20% of the cookies left in a jar. At the end of the 2nd day, there are 32 cookies left in the jar. How many cookies were in the jar originally? W) 40 X) 48 Y) 50 Z) 60
+
+ANSWER: Y) 50
+
+569
+–  Short Answer    What are the coordinates of the vertex of the graph of  y = –2x2 – 8x + 7?
+
+ANSWER: (–2,15)
+
+570
+–  Short Answer    What is the second derivative with respect to x of 2x3 – 12 evaluated at x = 3?
+
+ANSWER: 36
+
+571
+–  Short Answer    Solve the following equation for y: 3y minus open parenthesis 2 minus 2y close parenthesis plus 5 = 15 minus y.
+
+ANSWER: 2
+
+572
+–  Multiple Choice    If n is an integer, and xn is positive for all nonzero real numbers x, which of the following must be true about n? W) n is greater than zero X) n does not equal zero Y) n is even Z) n is odd
+
+ANSWER: Y) n IS EVEN
+
+573
+–  Multiple Choice    Which of the following points lies in the solution set for the following system of two inequalities in two unknowns: 3y – x ≥ –9 and 3y – 2x < –9? W) (3, 1) X) (4, –4) Y) (8, –2) Z) (8, 2)
+
+ANSWER: Z) (8, 2)
+
+574
+–  Multiple Choice    When working with three coordinate axes, what rule determines the orientation of the z-axis in relation to the x- and y-axes? W) Left-hand rule X) Octant rule Y) Right-hand rule  Z) Three-space rule
+
+ANSWER: Y) RIGHT-HAND RULE
+
+575
+–  Short Answer    What number must be ADDED to both the numerator and denominator of 3/4 to get 4/3?
+
+ANSWER: –7
+
+576
+–  Short Answer    How many points of intersection do the graphs of the functions  f(x) = –x2 and g(x) = 2 raised to the x power have?
+
+ANSWER: 0 (ACCEPT: NONE)
+
+577
+–  Short Answer    The terminal side of an angle in standard position passes through the point (8, –15). Find the sine and tangent, respectively, of the angle.
+
+ANSWER: SINE = –15/17, TANGENT = –15/8 (ACCEPT: –1 7/8)
+
+578
+–  Short Answer    What is the greatest common factor of 18 and 142?
+
+ANSWER: 2
+
+579
+–  Multiple Choice    Which of the following points does the line 2x – 3y = –12 NOT pass through? W) (–2, 8/3) X) (1, –14/3) Y) (3, 6) Z) (7, 26/3)
+
+ANSWER: X) (1, –14/3)
+
+580
+–  Short Answer    What is the derivative evaluated at x = 7 of the fraction with numerator x3 – 1 and denominator x – 1?
+
+ANSWER: 15
+
+581
+–  Short Answer    Evaluate the following expression: log base 3 of 27 + log base 5 of 25.
+
+ANSWER: 5
+
+582
+–  Short Answer    What is the slope of the tangent line to the function  F(x) = 1000 – 200x – 5x2 at x = 4?
+
+ANSWER: -240
+
+583
+–  Short Answer    What is the value of 60 factorial divided by open parenthesis 59 factorial times 3 factorial close parenthesis?
+
+ANSWER: 10
+
+584
+–  Short Answer    Identify all of the following three integer operations that are commutative: 1) Addition; 2) Subtraction; 3) Multiplication.
+
+ANSWER: 1 AND 3
+
+585
+–  Short Answer    What is the midpoint of the segment with endpoints (1, 6) and (5, -2)?
+
+ANSWER: (3, 2)
+
+586
+–  Short Answer    Solve the following system of two equations in two unknowns:  x2 + y2 = 2 and x + y = 2.
+
+ANSWER: (1, 1) (ACCEPT: x = 1 and y = 1)
+
+587
+–  Short Answer    Specifying whether your answer is open or closed, what is the interval of angles in degrees whose terminal sides are in the second quadrant?
+
+ANSWER: THE OPEN INTERVAL FROM 90 TO 180
+
+588
+–  Multiple Choice    Which of the following base 2 sums is the largest? W) 1 + 1111 [one plus one one one one] X) 100 + 1001 [one zero zero plus one zero zero one] Y) 110 + 1000 [one one zero plus one zero zero zero] Z) 111 + 111 [one one one plus one one one]
+
+ANSWER: W) 1 + 1111
+
+589
+–  Short Answer    What is the limit as x approaches 3 of the function with numerator x – 3 and denominator x2 – 9?
+
+ANSWER: 1/6
+
+590
+–  Short Answer    Special water for a 600-liter aquarium is only sold in 35-liter containers. What is the minimum number of these 35-liter containers you would need to buy to be able to completely fill the tank?
+
+ANSWER: 18 (DO NOT ACCEPT: 17 1/7 or 120/7)
+
+591
+–  Short Answer    What is the least common multiple of the first four composite numbers?
+
+ANSWER: 72
+
+592
+–  Short Answer    The ratio of the measures of the three angles in a triangle is 2:3:4. What are the degree measures of the three angles?
+
+ANSWER: 40, 60, 80
+
+593
+–  Short Answer    What mathematical rule can be applied to give information about the number of positive or negative real roots of a polynomial based on the number of sign changes in the polynomial’s coefficients?
+
+ANSWER: DESCARTES’ RULE OF SIGNS
+
+594
+–  Multiple Choice    With respect to x, which of the following has –3x2 as an antiderivative? W) –6x X) 6x  Y) –x3 Z) x3
+
+ANSWER: W) –6x
+
+595
+–  Short Answer    Identify the center and radius of the sphere with equation 36 = open parenthesis x – 2 close parenthesis squared + open parenthesis y – 7 close parenthesis squared + open parenthesis z + 1 close parenthesis squared.
+
+ANSWER: CENTER (2, 7, –1); RADIUS 6
+
+596
+–  Multiple Choice    If f(x) = the square root of open parenthesis x + 3 close parenthesis and g(x) = the square root of open parenthesis x – 3 close parenthesis, what is the domain of the function f(x) divided by g(x)? W) x > 3 X) x ≥ 3 Y) x ≥ -3 Z) -3 < x < 3 Answer: W) x > 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ TOSS-UP 16) Earth and Space  –  Multiple Choice    If a slow-moving warm front is followed by a fast-moving cold front, the cold front will sometimes overtake the warm front. When the cold air lifts the warm air entirely aloft, what atmospheric phenomenon results?  W) Stationary front X) Occluded front Y) Marine front Z) Polar front
+
+ANSWER: X) OCCLUDED FRONT
+
+597
+–  Short Answer    How many exterior angles does a parallelogram have?
+
+ANSWER: 8
+
+598
+–  Short Answer    What is the sum from n = 1 to 4 of 2n2?
+
+ANSWER: 60
+
+599
+–  Short Answer    What is the degree measure of each interior angle in a regular hexagon?
+
+ANSWER: 120
+
+600
+–  Multiple Choice    Which of the following is true regarding the graph of  y = –x3  at  x = –2? W) increasing and concave up X) increasing and concave down Y) decreasing and concave up Z) decreasing and concave down
+
+ANSWER: Y) DECREASING AND CONCAVE UP
+
+601
+–  Multiple Choice    Which of the following equations is that of a line perpendicular to the line with equation 4x – 5y = 10? W) 4x – 5y = 12 X) 4x + 5y = 12 Y) 5x – 4y = 10 Z) 5x + 4y = 10
+
+ANSWER: Z) 5x + 4y = 10
+
+602
+–  Short Answer    Identify all of the following four properties that are preserved under a translation: 1) Distance; 2) Collinearity; 3) Midpoint; 4) Angle measure.
+
+ANSWER: 1, 2, 3, 4 (ACCEPT: ALL)
+
+603
+–  Short Answer    What is the degree of the polynomial x2 + 3x8 + 7x?
+
+ANSWER: 8
+
+604
+–  Short Answer    Maggie bakes 48 cookies and sells half of them that morning for $2.50 each. In the afternoon, she sells two-thirds of what she has left at half price. In the late afternoon, she sells the remaining cookies at a dollar each. If each cookie costs 75 cents for her to make, what was her profit, in dollars, for the day?
+
+ANSWER: 52
+
+605
+–  Short Answer    The complex number –4 lies on the boundary between what two quadrants in the complex plane?
+
+ANSWER: 2 AND 3 (ACCEPT: SECOND AND THIRD)
+
+606
+–  Short Answer    Solve the following equation for x: negative 8 plus the absolute value of open parenthesis 4 minus 3x close parenthesis equals 20.
+
+ANSWER: –8, 32/3 (ACCEPT: 10 2/3 for 32/3)
+
+607
+–  Short Answer    What is binary one-zero-zero-one in decimal form?
+
+ANSWER: 9
+
+608
+–  Short Answer    Perform the following complex number subtraction: –4 – 25i  subtracted from –11 – 7i.
+
+ANSWER: –7 + 18i
+
+609
+–  Multiple Choice    For a twice-differentiable function f(x),  f(3) is 4, f prime of 3 is 0 and f double prime of 3 is 5. Which of the following is true of the graph of  y = f(x) at the point (3, 4)? W) There is a local minimum X) There is a local maximum Y) There is an inflection point Z)  The graph is concave down
+
+ANSWER: W) THERE IS A LOCAL MINIMUM
+
+610
+–  Short Answer    What is the sine of 270 degrees?
+
+ANSWER: –1
+
+611
+–  Short Answer    Give the Cartesian coordinates of the point described by the cylindrical coordinates (r, theta, h) = (8, π/3, 24).
+
+ANSWER: (4, 4√3, 24)
+
+612
+–  Short Answer    Giving your answer in standard form, what is the equation of the circle with center at (0, 0) and diameter 10?
+
+ANSWER: x2 + y2 = 25
+
+613
+–  Multiple Choice    What is 4 to the power of log base 2 of 5? W) 1/5 X) Square root of 5 Y) 5 Z) 25
+
+ANSWER: Z) 25
+
+614
+–  Multiple Choice    Given sets A and B with A intersect B = the set containing the element 5, which of the following must be true? W) Set A may be the empty set X) Set A contains at least one element Y) Set B contains at most one element Z) Sets A and B have the same number of elements
+
+ANSWER: X) SET A CONTAINS AT LEAST ONE ELEMENT
+
+615
+–  Short Answer    Expressing your answer in terms of m, evaluate the function  f(x) = 4x2 – 9x + 11 when x is m – 7.
+
+ANSWER: 4m2 – 65m + 270
+
+616
+–  Short Answer    The perimeters of two squares differ by 16 inches and their areas differ by 96 square inches.  What is the perimeter, in inches, of the larger square?
+
+ANSWER: 56
+
+617
+–  Short Answer    What is the distance between the points (0, 1) and (2, 3)?
+
+ANSWER: 2√2
+
+618
+–  Short Answer    What is the sum from n = 0 to 2016 of the cosine of open parenthesis pi times n divided by 2 close parenthesis?
+
+ANSWER: 1
+
+619
+–  Short Answer    What is the fourth term in the series given by the sum from n = 0 to infinity of the fraction with numerator 1 and denominator 2 to the nth power?
+
+ANSWER: 1/8
+
+620
+–  Short Answer    Evaluate 112 + 212 + 312.
+
+ANSWER: 1523
+
+621
+–  Short Answer    What is the integral from –6 to 6 of 6 dx?
+
+ANSWER: 72
+
+622
+–  Short Answer    One endpoint of a diameter of a sphere centered at (4, 2, –9) is (5, –6, 2).  What are the coordinates of the other endpoint of that diameter?
+
+ANSWER: (3, 10, -20)
+
+623
+–  Short Answer    How many terms does the binomial expansion of open parenthesis x2 + 3y3 close parenthesis to 13th power contain?
+
+ANSWER: 14
+
+624
+–  Short Answer    A right triangle has hypotenuse of length 46 and one leg of length 44. What is the length of the third side?
+
+ANSWER: 6√5
+
+625
+–  Short Answer    If the graph of y equals open parenthesis x minus two close parenthesis squared minus three is translated 6 units up and 3 units to the right, what are the coordinates of the vertex of the image?
+
+ANSWER: (5, 3)
+
+626
+–  Short Answer    A bag contains 18 socks: 4 are red, 6 are white, and 8 are blue. How many socks must you take out to be certain that you will have at least one pair of blue socks?
+
+ANSWER: 12
+
+627
+–  Short Answer    The three sides of a triangle have lengths 4 centimeters, 6 centimeters, and 7 centimeters. What is the cosine of the smallest angle?
+
+ANSWER: 23/28
+
+628
+–  Short Answer    What is the determinant of the 2 by 2 matrix with first row –2, –3 and second row 8, –4?
+
+ANSWER: 32
+
+629
+–  Multiple Choice    What is the probability that the bottom card in a deck of cards is a queen and the top card is a king? W) 1/169 X) 4/663 Y) 5/663  Z) 1/2702
+
+ANSWER: X) 4/663
+
+630
+–  Short Answer    What is the complex conjugate of –4 – 36i?
+
+ANSWER: –4 + 36i
+
+631
+–  Short Answer    What are the radius and the coordinates of the center, respectively, of the circle with equation x2 + 8x + y2 – 6y = 0?
+
+ANSWER: RADIUS 5; CENTER (–4, 3)
+
+632
+–  Short Answer    What are the linear factors of the polynomial 2ab + 3a – 8b – 12?
+
+ANSWER: a – 4 AND 2b + 3
+
+633
+–  Short Answer    If all of the prime factors of 444, including multiple occurences, are added, how much greater will the result be than that for 222?
+
+ANSWER: 2
+
+634
+–  Short Answer    Two circles with radii of 3 inches and 1 inch have the same center. What is the ratio of the area of the annulus between the inner circle and the outer circle to the area of the inner circle?
+
+ANSWER: 8 (ACCEPT: 8 TO 1)
+
+635
+–  Multiple Choice    Let f(x) be a continuous and differentiable function on the closed interval [3,6]. Which of the following could be the x-value guaranteed by the Mean Value Theorem for this situation? W) 2 X) 3 Y) 5 Z) 7
+
+ANSWER: Y) 5
+
+636
+–  Short Answer    One dimension of a cube is increased by 1, another is decreased by 1, and the other is left unchanged. If the new solid has a volume 5 less than that of the original cube, what was the volume of the original cube?
+
+ANSWER: 125
+
+637
+–  Short Answer    How many points of intersection are there for the graphs of y = 3x and  y = –x2 + 5?
+
+ANSWER: 2
+
+638
+–  Multiple Choice    Which of the following is nearest to 1,000,000? W) 5 to the 6th power X) 10 to the 7th power  Y) 2 to the 20th power  Z) 400 squared
+
+ANSWER: Y) 2 TO THE 20TH POWER
+
+639
+–  Short Answer    What is the image of the point (0, 0) when it is reflected across the  line y = x – 1?
+
+ANSWER: (1, –1)
+
+640
+–  Short Answer    If n is an odd integer, how many lines of symmetry does a regular n-gon have?
+
+ANSWER: n
+
+641
+–  Short Answer    Solve the following equation for x over the real numbers: 8 to the power open parenthesis 2x close parenthesis equals 4 to the power open parenthesis 2x minus 1 close parenthesis.
+
+ANSWER: –1
+
+642
+–  Multiple Choice    Which of the following best describes the type of conic section represented by the equation  x2 + 10x + y2  + 16 equals zero? W) Circle X) Ellipse Y) Hyperbola Z) Parabola
+
+ANSWER: W) CIRCLE
+
+643
+–  Short Answer    If the third derivative of a position function can be described by the function 4t, what is the coefficient on the highest order term in the position function?
+
+ANSWER: 1/6
+
+644
+–  Multiple Choice    Which of the following is equivalent to  cosine56°cosine23° – sine23°sine56°? W) sine 33° X) cosine 33° Y) sine 79° Z) cosine 79°
+
+ANSWER: Z) COSINE 79°
+
+645
+–  Short Answer    What are the mean and the median, respectively, of the prime numbers less than 25?
+
+ANSWER: MEAN 100/9 (ACCEPT: 11 1/9), MEDIAN 11
+
+646
+–  Short Answer    If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS-uh-lees] triangle measures 132º, what is the degree measure of the vertex angle?
+
+ANSWER: 84
+
+647
+–  Multiple Choice    According to the rational root theorem, which of the following is NOT a possible solution to the equation x3 – 2x2 + x – 2 = 0? W) –1 X) ½ Y) 1 Z) 2
+
+ANSWER: X) ½
+
+648
+–  Short Answer    What is the 4th term of the geometric series with first term 400 and second term 120?
+
+ANSWER: 10.8 (ACCEPT: 10 4/5, 54/5)
+
+649
+–  Short Answer    Simplify the following expression involving the complex number i:   i + 2i2 + 3i3 + 4i4
+
+ANSWER: 2 – 2i
+
+650
+–  Short Answer    What is the sum of the largest prime number less than 50 and the largest prime number less than 100?
+
+ANSWER: 144
+
+651
+–  Short Answer    The bob on a pendulum swings through an arc 6 feet long when the string swings through an angle of 0.5 radians. What is the length of the pendulum in feet?
+
+ANSWER: 12
+
+652
+–  Multiple Choice    In the conversion of the rectangular coordinates (-8, 6) into polar coordinates, to the nearest whole number, what is the degree measure of the angle? W) 127 X) 143 Y) 307 Z) 323
+
+ANSWER: X) 143
+
+653
+–  Short Answer    What is the area, in square centimeters, of an equilateral triangle whose circumcircle has a radius of 10 centimeters?
+
+ANSWER: 75√3
+
+654
+–  Short Answer    What is the product of the complex numbers 3 + i and 2 + 3i?
+
+ANSWER: 3 + 11i
+
+655
+–  Short Answer    What is the remainder when 3x3 + 6x2 – 7x + 2 is divided by the binomial x + 4?
+
+ANSWER: -66
+
+656
+–  Short Answer    A special coin has a 1/3 probability of landing on heads, and a 2/3 probability of landing on tails. In a series of three coin flips, what is the probability of the outcome sequence heads, heads, tails?
+
+ANSWER: 2/27
+
+657
+–  Short Answer    What is the average value of the function f(x) = x2 over the interval –2 to 2?
+
+ANSWER: 4/3
+
+658
+–  Multiple Choice    Let f(x) be a polynomial function with real coefficients and at least one real root. Which of the following must be true? W) f(x) has an even number of non-real complex roots X) f(x) is of odd degree Y) f(x) is an even function Z) The graph of f(x) has a horizontal asymptote
+
+ANSWER: W) f(x) HAS AN EVEN NUMBER OF NON-REAL COMPLEX ROOTS
+
+659
+–  Short Answer    A square has sides of length 10 centimeters. In square centimeters, what is the difference between the areas of its circumscribing circle and its inscribed circle?
+
+ANSWER: 25π
+
+660
+–  Multiple Choice    Which of the following equations does NOT include the half-line y = x, where x and y are positive, in its solution set? W) xy  = yx X) cosine of the product xy equals sine of the product xy  Y) x natural log of y = y natural log of x Z) 2x + 3y = 2y + 3x
+
+ANSWER: X) COSINE OF THE PRODUCT xy EQUALS SINE OF THE PRODUCT xy
+
+661
+–  Short Answer    A national achievement test is administered. The test has a mean score of 100 and a standard deviation of 10. If Ann’s Z-score is –1.3, what is her score on the test?
+
+ANSWER: 87
+
+662
+–  Multiple Choice    Given two sets A and B with A union B containing exactly 3 elements, which of the following must be true about sets A and B? W) Each set contains at least 2 elements X) Each set contains at most 2 elements Y) Each set contains at least 3 elements Z) Each set contains at most 3 elements
+
+ANSWER: Z) EACH SET CONTAINS AT MOST 3 ELEMENTS
+
+663
+–  Short Answer    What is the area between the curves y = x + 3 and y = x3 between x = 0 and x = 1?
+
+ANSWER: 13/4 (ACCEPT: 3.25, 3 ¼)
+
+664
+–  Short Answer    What is the log base 3 of 729?
+
+ANSWER: 6
+
+665
+–  Short Answer    A restaurant’s 4 dollar box allows you to pick any 2 of 4 possible entrees (including 2 of the same), one of 2 sides, one of 2 desserts, and one of 3 drinks. How many different orders are possible?
+
+ANSWER: 120
+
+666
+–  Multiple Choice    Which of the following is the contrapositive of the conditional statement: If p, then q? W) If q, then p X) If not p, then q Y) If not p, then not q Z) If not q, then not p
+
+ANSWER: Z) IF NOT Q, THEN NOT P
+
+667
+–  Short Answer    What is the area of a triangle with sides of length 11, 8, and 5?
+
+ANSWER: 4√21
+
+668
+–  Short Answer    If theta is an angle in the third quadrant and the cosine of theta equals negative five-thirteenths, what is the sine of theta?
+
+ANSWER: -12/13
+
+669
+–  Short Answer    Express the fraction with numerator 3 – 2i and denominator 1 + 4i in standard a + bi form.
+
+ANSWER: –5/17 – (14/17)i
+
+670
+–  Short Answer    If y varies jointly with x and z, and y = 12 when x = 4 and z = 5, find y when x = 20 and z = 4.
+
+ANSWER: y = 48
+
+671
+–  Short Answer    What is the standard deviation of the following list of 4 numbers: 3, 3, 9, 17?
+
+ANSWER: SQUARE ROOT OF 33
+
+672
+–  Short Answer    What is the dot product of 4i – 6j and –3i + j?
+
+ANSWER: –18
+
+673
+–  Short Answer    Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x – x4 and y = 0.
+
+ANSWER: π/3
+
+674
+–  Short Answer    What is the sum of the infinite geometric series with first term 1/4 and second term 1/16?
+
+ANSWER: 1/3
+
+675
+–  Multiple Choice    A regular decagon is inscribed in a circle with radius 8. Which of the following is the length of one of its sides? W) 8 sine of 36° X) 8 cosine of 36° Y) 16 sine of 18° Z) 16 cosine of 18°
+
+ANSWER: Y) 16 sine of 18°
+
+676
+–  Multiple Choice    Consider a restaurant menu with nine meals. A table at the restaurant has n diners, all of whom order different meals. For which of the following values of n could the table add a diner without changing the number of combinations of meals the table can order? W) 1 X) 2 Y) 4 Z) 8
+
+ANSWER: Y) 4
+
+677
+–  Short Answer    Find the product of the following three complex numbers:  2i, –11 + 2i, 4 – 5i
+
+ANSWER: –126 – 68i
+
+678
+–  Short Answer    What is the lateral surface area of a cone whose height is 12 cm and whose base diameter is 10 cm?
+
+ANSWER: 65 pi
+
+679
+–  Short Answer    Find the derivative with respect to x of the product of the two binomials 4x3 – 12 and 8x4 + 7.
+
+ANSWER: 224x6 – 384x3 + 84x2
+
+680
+–  Short Answer    The graph of the function f(x) lies in the first quadrant. The function g(x) equals negative 2 times f(x). In what quadrant does the graph of the function f(x) + g(x) lie?
+
+ANSWER: FOURTH (ACCEPT: 4)
+
+681
+–  Short Answer    What is the cross product of the vectors i + j + k and j?
+
+ANSWER: –i + k (ACCEPT: -1i + 0j + 1k, -1i + 1k )
+
+682
+–  Multiple Choice    Which of the following describes the solutions for the equation  x to the x power = x to the x + 1 power? W) –1 and 1 X) 0 Y) 1 Z) No solution exists
+
+ANSWER: Y) 1
+
+683
+–  Short Answer    What is the sum of the first 6 terms in the geometric sequence with first term 3 and second term 12?
+
+ANSWER: 4095
+
+684
+–  Short Answer    The point (3, –7) is reflected through the y-axis, with the result then translated 2 units left. What are the coordinates of the final image?
+
+ANSWER: (–5, –7)
+
+685
+–  Short Answer    What is the distance between the two points with polar coordinates of  r = 4 and theta = 60 degrees, and r = 6 and theta = 0 degrees?
+
+ANSWER: 2√7
+
+686
+–  Short Answer    What is the average of the integers from 1 to 21, inclusive?
+
+ANSWER: 11
+
+687
+–  Short Answer    If air leaves a spherical balloon at a rate of 1 cubic centimeter per second, at what rate in centimeters per second is the radius changing when the radius is 1/2 centimeter?
+
+ANSWER: –1/pi (ACCEPT: DECREASING BY 1/pi; DO NOT ACCEPT: 1/pi)
+
+688
+–  Short Answer    Simplify i raised to the 22nd power.
+
+ANSWER: –1
+
+689
+–  Short Answer    In a circle with radius 4, what is the area of a circular segment defined by an arc of 45°?
+
+ANSWER: 2pi - 4√2
+
